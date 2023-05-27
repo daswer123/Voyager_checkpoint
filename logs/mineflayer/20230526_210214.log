@@ -1,0 +1,150 @@
+2023-05-26 21:02:14,299 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:03:11,789 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:03:12,217 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:03:12,217 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:03:12,253 - mineflayer - INFO - {
+2023-05-26 21:03:12,254 - mineflayer - INFO - port: 3636,
+2023-05-26 21:03:12,254 - mineflayer - INFO - reset: 'hard',
+2023-05-26 21:03:12,254 - mineflayer - INFO - inventory: {},
+2023-05-26 21:03:12,254 - mineflayer - INFO - equipment: [],
+2023-05-26 21:03:12,254 - mineflayer - INFO - spread: false,
+2023-05-26 21:03:12,257 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:03:12,258 - mineflayer - INFO - position: null
+2023-05-26 21:03:12,258 - mineflayer - INFO - }
+2023-05-26 21:03:22,237 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:03:23,272 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:03:23,635 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:03:23,635 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:03:23,646 - mineflayer - INFO - {
+2023-05-26 21:03:23,646 - mineflayer - INFO - port: 3636,
+2023-05-26 21:03:23,646 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:03:23,646 - mineflayer - INFO - inventory: {},
+2023-05-26 21:03:23,646 - mineflayer - INFO - equipment: [],
+2023-05-26 21:03:23,646 - mineflayer - INFO - spread: false,
+2023-05-26 21:03:23,646 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:03:23,646 - mineflayer - INFO - position: null
+2023-05-26 21:03:23,646 - mineflayer - INFO - }
+2023-05-26 21:08:02,381 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:08:03,412 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:08:03,805 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:08:03,805 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:08:03,827 - mineflayer - INFO - {
+2023-05-26 21:08:03,827 - mineflayer - INFO - port: 3636,
+2023-05-26 21:08:03,827 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:08:03,827 - mineflayer - INFO - inventory: {},
+2023-05-26 21:08:03,827 - mineflayer - INFO - equipment: [],
+2023-05-26 21:08:03,827 - mineflayer - INFO - spread: false,
+2023-05-26 21:08:03,827 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:08:03,827 - mineflayer - INFO - position: null
+2023-05-26 21:08:03,827 - mineflayer - INFO - }
+2023-05-26 21:08:53,160 - mineflayer - INFO - TypeError: Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:08:53,160 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:748:28)
+2023-05-26 21:08:53,160 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:777:7)
+2023-05-26 21:08:53,160 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:777:26)
+2023-05-26 21:08:53,160 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:08:53,160 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:08:53,160 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-26 21:08:53,160 - mineflayer - INFO - Your code:6
+2023-05-26 21:08:53,160 - mineflayer - INFO - matching: bot.mcData.blocksByName[name].id,
+2023-05-26 21:08:53,160 - mineflayer - INFO - Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:08:53,160 - mineflayer - INFO - 
+2023-05-26 21:12:03,935 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 21:12:03,935 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:4:15)
+2023-05-26 21:12:03,935 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:98:9)
+2023-05-26 21:12:03,935 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:747:11)
+2023-05-26 21:12:03,935 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:785:1)
+2023-05-26 21:12:03,935 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 21:12:03,935 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 21:12:03,935 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 21:12:03,935 - mineflayer - INFO - No crafting table nearby
+2023-05-26 21:12:03,935 - mineflayer - INFO - at line 5:await craftItem(bot, 'wooden_axe'); in your code
+2023-05-26 21:13:29,157 - mineflayer - INFO - TypeError: Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:13:29,157 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:750:30)
+2023-05-26 21:13:29,157 - mineflayer - INFO - at exploreUntil (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:124:18)
+2023-05-26 21:13:29,157 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:748:30)
+2023-05-26 21:13:29,157 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:809:1)
+2023-05-26 21:13:29,157 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 21:13:29,157 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 21:13:29,157 - mineflayer - INFO - Your code:8
+2023-05-26 21:13:29,158 - mineflayer - INFO - matching: bot.mcData.blocksByName['crafting_table'].id,
+2023-05-26 21:13:29,158 - mineflayer - INFO - Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:13:29,158 - mineflayer - INFO - 
+2023-05-26 21:13:33,306 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:13:34,331 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:13:34,731 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:13:34,731 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:13:34,761 - mineflayer - INFO - {
+2023-05-26 21:13:34,761 - mineflayer - INFO - port: 3636,
+2023-05-26 21:13:34,761 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:13:34,761 - mineflayer - INFO - inventory: {},
+2023-05-26 21:13:34,761 - mineflayer - INFO - equipment: [],
+2023-05-26 21:13:34,761 - mineflayer - INFO - spread: false,
+2023-05-26 21:13:34,761 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:13:34,761 - mineflayer - INFO - position: null
+2023-05-26 21:13:34,761 - mineflayer - INFO - }
+2023-05-26 21:14:37,183 - mineflayer - INFO - TypeError: Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:14:37,183 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:748:28)
+2023-05-26 21:14:37,183 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:784:7)
+2023-05-26 21:14:37,183 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:784:26)
+2023-05-26 21:14:37,183 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:14:37,183 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:14:37,183 - mineflayer - INFO - Your code:6
+2023-05-26 21:14:37,183 - mineflayer - INFO - matching: bot.mcData.blocksByName[name].id,
+2023-05-26 21:14:37,184 - mineflayer - INFO - Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:14:37,184 - mineflayer - INFO - 
+2023-05-26 21:15:28,009 - mineflayer - INFO - TypeError: Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:15:28,010 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:748:28)
+2023-05-26 21:15:28,010 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:784:7)
+2023-05-26 21:15:28,010 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:784:26)
+2023-05-26 21:15:28,010 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:15:28,010 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:15:28,010 - mineflayer - INFO - at runNextTicks (node:internal/process/task_queues:60:5)
+2023-05-26 21:15:28,010 - mineflayer - INFO - at process.processTimers (node:internal/timers:511:9)
+2023-05-26 21:15:28,010 - mineflayer - INFO - Your code:6
+2023-05-26 21:15:28,010 - mineflayer - INFO - matching: bot.mcData.blocksByName[name].id,
+2023-05-26 21:15:28,010 - mineflayer - INFO - Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:15:28,010 - mineflayer - INFO - 
+2023-05-26 21:16:26,705 - mineflayer - INFO - TypeError: Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:16:26,705 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:748:28)
+2023-05-26 21:16:26,705 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:784:7)
+2023-05-26 21:16:26,706 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:784:26)
+2023-05-26 21:16:26,706 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:16:26,706 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:16:26,706 - mineflayer - INFO - Your code:6
+2023-05-26 21:16:26,706 - mineflayer - INFO - matching: bot.mcData.blocksByName[name].id,
+2023-05-26 21:16:26,706 - mineflayer - INFO - Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:16:26,706 - mineflayer - INFO - 
+2023-05-26 21:17:24,931 - mineflayer - INFO - TypeError: Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:17:24,931 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:748:28)
+2023-05-26 21:17:24,931 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:784:7)
+2023-05-26 21:17:24,931 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:784:26)
+2023-05-26 21:17:24,931 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:17:24,931 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:17:24,932 - mineflayer - INFO - Your code:6
+2023-05-26 21:17:24,932 - mineflayer - INFO - matching: bot.mcData.blocksByName[name].id,
+2023-05-26 21:17:24,932 - mineflayer - INFO - Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:17:24,932 - mineflayer - INFO - 
+2023-05-26 21:17:29,070 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:17:30,094 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:17:30,468 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:17:30,468 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:17:30,490 - mineflayer - INFO - {
+2023-05-26 21:17:30,490 - mineflayer - INFO - port: 3636,
+2023-05-26 21:17:30,490 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:17:30,490 - mineflayer - INFO - inventory: {},
+2023-05-26 21:17:30,490 - mineflayer - INFO - equipment: [],
+2023-05-26 21:17:30,490 - mineflayer - INFO - spread: false,
+2023-05-26 21:17:30,490 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:17:30,490 - mineflayer - INFO - position: null
+2023-05-26 21:17:30,490 - mineflayer - INFO - }
+2023-05-26 21:18:25,302 - mineflayer - INFO - TypeError: Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:18:25,302 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:749:28)
+2023-05-26 21:18:25,302 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:791:7)
+2023-05-26 21:18:25,302 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:791:26)
+2023-05-26 21:18:25,302 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:18:25,302 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:18:25,302 - mineflayer - INFO - Your code:7
+2023-05-26 21:18:25,303 - mineflayer - INFO - matching: bot.mcData.blocksByName[name].id,
+2023-05-26 21:18:25,303 - mineflayer - INFO - Cannot read properties of undefined (reading 'blocksByName')
+2023-05-26 21:18:25,303 - mineflayer - INFO - 
+2023-05-26 21:21:00,240 - mineflayer - INFO - Stopping subprocess.

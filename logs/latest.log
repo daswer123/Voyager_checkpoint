@@ -1,0 +1,841 @@
+[06:56:16] [main/INFO]: Loading Minecraft 1.19 with Fabric Loader 0.14.18
+[06:56:16] [main/INFO]: Loading 58 mods:
+	- better_respawn 1.19-2.0.0
+	- completeconfig 2.0.0
+	   |-- coat 1.0.0-beta.17+mc22w17a
+	   |-- completeconfig-base 2.0.0
+	   |-- completeconfig-gui-cloth 2.0.0
+	   \-- completeconfig-gui-coat 2.0.0
+	- fabric 0.58.0+1.19
+	   |-- fabric-api-base 0.4.9+e62f51a3a9
+	   |-- fabric-api-lookup-api-v1 1.6.7+9ff28f40a9
+	   |-- fabric-biome-api-v1 9.0.14+b2a4a624a9
+	   |-- fabric-blockrenderlayer-v1 1.1.18+9ff28f40a9
+	   |-- fabric-command-api-v1 1.2.6+f71b366fa9
+	   |-- fabric-command-api-v2 2.1.2+0d55f585a9
+	   |-- fabric-commands-v0 0.2.23+df3654b3a9
+	   |-- fabric-containers-v0 0.1.28+df3654b3a9
+	   |-- fabric-content-registries-v0 3.2.1+07df213ea9
+	   |-- fabric-convention-tags-v1 1.0.8+37622d24a9
+	   |-- fabric-crash-report-info-v1 0.2.3+bd0a0d4aa9
+	   |-- fabric-data-generation-api-v1 5.1.2+a680b9b4a9
+	   |-- fabric-dimensions-v1 2.1.28+a6d2f785a9
+	   |-- fabric-entity-events-v1 1.4.16+9ff28f40a9
+	   |-- fabric-events-interaction-v0 0.4.26+9ff28f40a9
+	   |-- fabric-events-lifecycle-v0 0.2.26+df3654b3a9
+	   |-- fabric-game-rule-api-v1 1.0.19+18990361a9
+	   |-- fabric-item-api-v1 1.5.5+35a03c43a9
+	   |-- fabric-item-groups-v0 0.3.26+9ff28f40a9
+	   |-- fabric-key-binding-api-v1 1.0.18+9ff28f40a9
+	   |-- fabric-keybindings-v0 0.2.16+df3654b3a9
+	   |-- fabric-lifecycle-events-v1 2.1.0+33fbc738a9
+	   |-- fabric-loot-api-v2 1.1.1+03a4e568a9
+	   |-- fabric-loot-tables-v1 1.1.4+9e7660c6a9
+	   |-- fabric-message-api-v1 1.0.1+513f4a59a9
+	   |-- fabric-mining-level-api-v1 2.1.11+33fbc738a9
+	   |-- fabric-models-v0 0.3.15+9ff28f40a9
+	   |-- fabric-networking-api-v1 1.1.0+442de8b8a9
+	   |-- fabric-networking-v0 0.3.15+df3654b3a9
+	   |-- fabric-object-builder-api-v1 4.0.8+9ff28f40a9
+	   |-- fabric-particles-v1 1.0.8+dc39553aa9
+	   |-- fabric-registry-sync-v0 0.9.18+23c4cfefa9
+	   |-- fabric-renderer-api-v1 1.0.8+9ff28f40a9
+	   |-- fabric-renderer-indigo 0.6.10+5187d39fa9
+	   |-- fabric-renderer-registries-v1 3.2.18+df3654b3a9
+	   |-- fabric-rendering-data-attachment-v1 0.3.12+9ff28f40a9
+	   |-- fabric-rendering-fluids-v1 3.0.5+9ff28f40a9
+	   |-- fabric-rendering-v0 1.1.20+df3654b3a9
+	   |-- fabric-rendering-v1 1.10.14+9ff28f40a9
+	   |-- fabric-resource-conditions-api-v1 2.0.9+e62f51a3a9
+	   |-- fabric-resource-loader-v0 0.5.6+5f1a85e0a9
+	   |-- fabric-screen-api-v1 1.0.24+f05effafa9
+	   |-- fabric-screen-handler-api-v1 1.2.7+9ff28f40a9
+	   |-- fabric-textures-v0 1.0.18+9ff28f40a9
+	   |-- fabric-transfer-api-v1 2.0.9+e62f51a3a9
+	   \-- fabric-transitive-access-wideners-v1 1.1.1+9e7660c6a9
+	- fabricloader 0.14.18
+	- java 17
+	- minecraft 1.19
+	- modmenu 4.0.4
+	- serverpause 1.1.0
+[06:56:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/daswe.DESKTOP-RETDOD3/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[06:56:16] [main/INFO]: Compatibility level set to JAVA_17
+[06:56:20] [main/INFO]: Building optimized datafixer
+[06:56:23] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:56:24] [Render thread/INFO]: Setting user: daswer123
+[06:56:25] [Render thread/INFO]: [Indigo] Registering Indigo renderer!
+[06:56:25] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[06:56:28] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Coat, completeconfig-base, completeconfig-gui-coat, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Command API (v1), Fabric Command API (v2), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Message API (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, Mod Menu, Multiplayer Server Pause)
+[06:56:31] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[06:56:31] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[06:56:31] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Динамики (High Definition Audio Device)
+[06:56:31] [Render thread/INFO]: Sound engine started
+[06:56:31] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[06:56:31] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[06:56:31] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[06:56:31] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[06:56:31] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[06:56:31] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[06:56:31] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[06:56:32] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[06:56:32] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[06:56:33] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[06:56:33] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[06:56:42] [Worker-Bootstrap-12/INFO]: 4256 Datafixer optimizations took 21513 milliseconds
+[06:56:56] [Render thread/INFO]: Loaded 7 recipes
+[06:56:56] [Render thread/INFO]: Loaded 1179 advancements
+[06:56:57] [Render thread/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 3.183 ms
+[06:56:57] [Server thread/INFO]: Starting integrated minecraft server version 1.19
+[06:56:57] [Server thread/INFO]: Generating keypair
+[06:56:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:56:59] [Render thread/INFO]: Подготовка области возрождения: 0%
+[06:56:59] [Render thread/INFO]: Подготовка области возрождения: 0%
+[06:56:59] [Render thread/INFO]: Подготовка области возрождения: 0%
+[06:56:59] [Render thread/INFO]: Подготовка области возрождения: 0%
+[06:57:00] [Render thread/INFO]: Подготовка области возрождения: 1%
+[06:57:00] [Render thread/INFO]: Подготовка области возрождения: 95%
+[06:57:00] [Render thread/INFO]: Time elapsed: 2553 ms
+[06:57:00] [Server thread/INFO]: Changing view distance to 24, from 10
+[06:57:00] [Server thread/INFO]: Changing simulation distance to 20, from 0
+[06:57:01] [Server thread/INFO]: daswer123[local:E:6d548b59] logged in with entity id 65 at (956.5, 20.0, 819.5000000407142)
+[06:57:01] [Server thread/INFO]: daswer123 присоединился к игре
+[06:57:03] [Render thread/INFO]: Loaded 27 advancements
+[06:57:16] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[06:57:41] [Render thread/INFO]: [CHAT] Сущность не обнаружена
+[06:57:43] [Server thread/INFO]: Saving and pausing game...
+[06:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[06:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[06:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[06:57:49] [Render thread/INFO]: Using default channel type
+[06:57:49] [Render thread/INFO]: Started serving on 2604
+[06:57:49] [Render thread/INFO]: [CHAT] Порт локального сервера: 2604
+[06:57:50] [User Authenticator #1/WARN]: Failed to verify username but will let them in anyway!
+[06:57:50] [Server thread/INFO]: bot[/[0:0:0:0:0:0:0:1]:2607] logged in with entity id 1483 at (956.5, 20.0, 819.5000000407142)
+[06:57:50] [Server thread/INFO]: bot присоединился к игре
+[06:57:50] [Render thread/INFO]: [CHAT] bot присоединился к игре
+[06:57:52] [Server thread/INFO]: [daswer123: bot телепортирован к daswer123]
+[06:57:52] [Render thread/INFO]: [CHAT] bot телепортирован к daswer123
+[06:57:53] [Server thread/INFO]: [bot: Установлено значение игрового правила keepInventory: true]
+[06:57:53] [Server thread/INFO]: [bot: Установлено значение игрового правила doDaylightCycle: false]
+[06:57:53] [Server thread/INFO]: [bot: Pausing server...]
+[06:57:53] [Server thread/INFO]: Server paused.
+[06:57:53] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила keepInventory: true]
+[06:57:53] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doDaylightCycle: false]
+[06:57:53] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[06:57:53] [Render thread/INFO]: [CHAT] Server paused.
+[06:57:53] [Server thread/INFO]: Saving and pausing game...
+[06:57:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[06:57:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[06:57:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[06:57:54] [Server thread/INFO]: [bot: Unpausing server...]
+[06:57:54] [Server thread/INFO]: Server unpaused.
+[06:57:54] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[06:57:54] [Render thread/INFO]: [CHAT] Server unpaused.
+[06:57:56] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[06:57:56] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[06:57:58] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[06:57:58] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[06:57:58] [Server thread/INFO]: [bot: Pausing server...]
+[06:57:58] [Server thread/INFO]: Server paused.
+[06:57:58] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[06:57:58] [Render thread/INFO]: [CHAT] Server paused.
+[06:57:58] [Server thread/INFO]: Saving and pausing game...
+[06:57:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[06:57:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[06:57:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[06:58:11] [Server thread/INFO]: [daswer123: Ваш режим игры изменён на Режим наблюдателя]
+[06:58:11] [Render thread/INFO]: [CHAT] Ваш режим игры изменён на Режим наблюдателя
+[07:04:34] [Server thread/INFO]: [bot: Unpausing server...]
+[07:04:34] [Server thread/INFO]: Server unpaused.
+[07:04:34] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:04:34] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:04:35] [Server thread/INFO]: bot lost connection: Отключение
+[07:04:35] [Server thread/INFO]: bot покинул игру
+[07:04:35] [Render thread/INFO]: [CHAT] bot покинул игру
+[07:04:37] [User Authenticator #2/WARN]: Failed to verify username but will let them in anyway!
+[07:04:37] [Server thread/INFO]: bot[/[0:0:0:0:0:0:0:1]:2653] logged in with entity id 1601 at (1038.3509013986197, 67.0, 920.0204861349998)
+[07:04:37] [Server thread/INFO]: bot присоединился к игре
+[07:04:37] [Render thread/INFO]: [CHAT] bot присоединился к игре
+[07:04:40] [Server thread/INFO]: [bot: Установлено значение игрового правила keepInventory: true]
+[07:04:40] [Server thread/INFO]: [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:04:40] [Server thread/INFO]: [bot: Pausing server...]
+[07:04:40] [Server thread/INFO]: Server paused.
+[07:04:40] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила keepInventory: true]
+[07:04:40] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:04:40] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:04:40] [Render thread/INFO]: [CHAT] Server paused.
+[07:04:40] [Server thread/INFO]: Saving and pausing game...
+[07:04:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:04:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:04:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:04:41] [Server thread/INFO]: [bot: Unpausing server...]
+[07:04:41] [Server thread/INFO]: Server unpaused.
+[07:04:41] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:04:41] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:04:43] [Server thread/INFO]: [bot: Установлено время: 23000]
+[07:04:43] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:04:43] [Render thread/INFO]: [CHAT] [bot: Установлено время: 23000]
+[07:04:43] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:04:45] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:04:45] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:04:45] [Server thread/INFO]: [bot: Pausing server...]
+[07:04:45] [Server thread/INFO]: Server paused.
+[07:04:45] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:04:45] [Render thread/INFO]: [CHAT] Server paused.
+[07:04:45] [Server thread/INFO]: Saving and pausing game...
+[07:04:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:04:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:04:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:05:39] [Server thread/INFO]: [bot: Unpausing server...]
+[07:05:39] [Server thread/INFO]: Server unpaused.
+[07:05:39] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:05:39] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:05:41] [Server thread/INFO]: <bot> Placing furnace on grass_block at (1040, 66, 920)
+[07:05:41] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:05:41] [Render thread/INFO]: [CHAT] <bot> Placing furnace on grass_block at (1040, 66, 920)
+[07:05:41] [Server thread/INFO]: <bot> Placed furnace
+[07:05:41] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:05:41] [Render thread/INFO]: [CHAT] <bot> Placed furnace
+[07:06:00] [Server thread/INFO]: Searching for respawn location - Attempt 1/16
+[07:06:00] [Server thread/INFO]: Found valid respawn location: [1008, 72, 896]
+[07:06:00] [Server thread/INFO]: Set temporary respawn location to [1008, 72, 896]
+[07:06:00] [Server thread/INFO]: bot был убит Крестьянин-зомби
+[07:06:00] [Render thread/INFO]: [CHAT] bot был убит Крестьянин-зомби
+[07:06:00] [Server thread/INFO]: Updating the respawn location of player bot to [NONE]
+[07:06:06] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:06:06] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:06:07] [Server thread/INFO]: [bot: Изменён блок в точке 1040, 67, 920]
+[07:06:07] [Server thread/INFO]: [bot: Выдано 1 [Печь] игроку bot]
+[07:06:07] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:06:07] [Render thread/INFO]: [CHAT] [bot: Изменён блок в точке 1040, 67, 920]
+[07:06:07] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Печь] игроку bot]
+[07:06:07] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:06:07] [Server thread/INFO]: [bot: Pausing server...]
+[07:06:07] [Server thread/INFO]: Server paused.
+[07:06:07] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:06:07] [Render thread/INFO]: [CHAT] Server paused.
+[07:06:07] [Server thread/INFO]: Saving and pausing game...
+[07:06:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:06:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:06:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:06:58] [Server thread/INFO]: [bot: Unpausing server...]
+[07:06:58] [Server thread/INFO]: Server unpaused.
+[07:06:58] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:06:58] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:07:00] [Server thread/INFO]: <bot> Placing furnace on oak_leaves at (1009, 71, 896)
+[07:07:00] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:07:00] [Render thread/INFO]: [CHAT] <bot> Placing furnace on oak_leaves at (1009, 71, 896)
+[07:07:01] [Server thread/INFO]: <bot> Placed furnace
+[07:07:01] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:07:01] [Render thread/INFO]: [CHAT] <bot> Placed furnace
+[07:07:01] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:07:01] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:07:02] [Server thread/INFO]: [bot: Изменён блок в точке 1009, 72, 896]
+[07:07:02] [Server thread/INFO]: [bot: Выдано 1 [Печь] игроку bot]
+[07:07:02] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:07:02] [Render thread/INFO]: [CHAT] [bot: Изменён блок в точке 1009, 72, 896]
+[07:07:02] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Печь] игроку bot]
+[07:07:02] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:07:02] [Server thread/INFO]: [bot: Pausing server...]
+[07:07:02] [Server thread/INFO]: Server paused.
+[07:07:02] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:07:02] [Render thread/INFO]: [CHAT] Server paused.
+[07:07:02] [Server thread/INFO]: Saving and pausing game...
+[07:07:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:07:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:07:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:07:55] [Server thread/INFO]: [bot: Unpausing server...]
+[07:07:55] [Server thread/INFO]: Server unpaused.
+[07:07:55] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:07:55] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:07:57] [Server thread/INFO]: <bot> Placing furnace on oak_leaves at (1009, 71, 896)
+[07:07:57] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:07:57] [Render thread/INFO]: [CHAT] <bot> Placing furnace on oak_leaves at (1009, 71, 896)
+[07:07:57] [Server thread/INFO]: <bot> Placed furnace
+[07:07:57] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:07:57] [Render thread/INFO]: [CHAT] <bot> Placed furnace
+[07:07:57] [Server thread/INFO]: <bot> No beef to smelt in inventory
+[07:07:57] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:07:57] [Render thread/INFO]: [CHAT] <bot> No beef to smelt in inventory
+[07:07:57] [Server thread/INFO]: <bot> Failed to smelt beef, please check the fuel and input.
+[07:07:57] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:07:57] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:07:57] [Render thread/INFO]: [CHAT] <bot> Failed to smelt beef, please check the fuel and input.
+[07:07:57] [Server thread/INFO]: <bot> 2 beef cooked.
+[07:07:57] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:07:57] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:07:57] [Render thread/INFO]: [CHAT] <bot> 2 beef cooked.
+[07:07:58] [Server thread/INFO]: [bot: Изменён блок в точке 1009, 72, 896]
+[07:07:58] [Server thread/INFO]: [bot: Выдано 1 [Печь] игроку bot]
+[07:07:58] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:07:58] [Render thread/INFO]: [CHAT] [bot: Изменён блок в точке 1009, 72, 896]
+[07:07:58] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Печь] игроку bot]
+[07:07:58] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:07:58] [Server thread/INFO]: [bot: Pausing server...]
+[07:07:58] [Server thread/INFO]: Server paused.
+[07:07:58] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:07:58] [Render thread/INFO]: [CHAT] Server paused.
+[07:07:58] [Server thread/INFO]: Saving and pausing game...
+[07:07:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:07:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:07:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:09:31] [Server thread/INFO]: [bot: Unpausing server...]
+[07:09:31] [Server thread/INFO]: Server unpaused.
+[07:09:31] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:09:31] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:09:33] [Server thread/INFO]: <bot> No cow nearby, please explore first
+[07:09:33] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:09:33] [Render thread/INFO]: [CHAT] <bot> No cow nearby, please explore first
+[07:09:33] [Server thread/INFO]: <bot> Placing furnace on oak_leaves at (1009, 71, 896)
+[07:09:33] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:09:33] [Render thread/INFO]: [CHAT] <bot> Placing furnace on oak_leaves at (1009, 71, 896)
+[07:09:33] [Server thread/INFO]: <bot> Placed furnace
+[07:09:33] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:09:33] [Render thread/INFO]: [CHAT] <bot> Placed furnace
+[07:09:34] [Server thread/INFO]: <bot> No beef to smelt in inventory
+[07:09:34] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:09:34] [Render thread/INFO]: [CHAT] <bot> No beef to smelt in inventory
+[07:09:34] [Server thread/INFO]: <bot> Failed to smelt beef, please check the fuel and input.
+[07:09:34] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:09:34] [Server thread/INFO]: <bot> 2 beef cooked.
+[07:09:34] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:09:34] [Render thread/INFO]: [CHAT] <bot> Failed to smelt beef, please check the fuel and input.
+[07:09:34] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:09:34] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:09:34] [Render thread/INFO]: [CHAT] <bot> 2 beef cooked.
+[07:09:35] [Server thread/INFO]: [bot: Изменён блок в точке 1009, 72, 896]
+[07:09:35] [Server thread/INFO]: [bot: Выдано 1 [Печь] игроку bot]
+[07:09:35] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:09:35] [Render thread/INFO]: [CHAT] [bot: Изменён блок в точке 1009, 72, 896]
+[07:09:35] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Печь] игроку bot]
+[07:09:35] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:09:35] [Server thread/INFO]: [bot: Pausing server...]
+[07:09:35] [Server thread/INFO]: Server paused.
+[07:09:35] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:09:35] [Render thread/INFO]: [CHAT] Server paused.
+[07:09:35] [Server thread/INFO]: Saving and pausing game...
+[07:09:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:09:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:09:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:10:38] [Server thread/INFO]: [bot: Unpausing server...]
+[07:10:38] [Server thread/INFO]: Server unpaused.
+[07:10:38] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:10:38] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:10:39] [Server thread/INFO]: bot lost connection: Отключение
+[07:10:39] [Server thread/INFO]: bot покинул игру
+[07:10:39] [Render thread/INFO]: [CHAT] bot покинул игру
+[07:10:41] [User Authenticator #3/WARN]: Failed to verify username but will let them in anyway!
+[07:10:41] [Server thread/INFO]: bot[/[0:0:0:0:0:0:0:1]:2690] logged in with entity id 14173 at (1008.5, 72.0, 896.5)
+[07:10:41] [Server thread/INFO]: bot присоединился к игре
+[07:10:41] [Render thread/INFO]: [CHAT] bot присоединился к игре
+[07:10:44] [Server thread/INFO]: [bot: Установлено значение игрового правила keepInventory: true]
+[07:10:44] [Server thread/INFO]: [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:10:44] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила keepInventory: true]
+[07:10:44] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:10:44] [Server thread/INFO]: [bot: Pausing server...]
+[07:10:44] [Server thread/INFO]: Server paused.
+[07:10:44] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:10:44] [Render thread/INFO]: [CHAT] Server paused.
+[07:10:44] [Server thread/INFO]: Saving and pausing game...
+[07:10:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:10:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:10:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:10:45] [Server thread/INFO]: [bot: Unpausing server...]
+[07:10:45] [Server thread/INFO]: Server unpaused.
+[07:10:45] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:10:45] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:10:47] [Server thread/INFO]: [bot: Установлено время: 1000]
+[07:10:47] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:10:47] [Render thread/INFO]: [CHAT] [bot: Установлено время: 1000]
+[07:10:47] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:10:49] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:10:49] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:10:49] [Server thread/INFO]: [bot: Pausing server...]
+[07:10:49] [Server thread/INFO]: Server paused.
+[07:10:49] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:10:49] [Render thread/INFO]: [CHAT] Server paused.
+[07:10:49] [Server thread/INFO]: Saving and pausing game...
+[07:10:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:10:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:10:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:12:22] [Server thread/INFO]: [bot: Unpausing server...]
+[07:12:22] [Server thread/INFO]: Server unpaused.
+[07:12:22] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:12:22] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:12:28] [Server thread/INFO]: <bot> Collect finish!
+[07:12:28] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:12:28] [Render thread/INFO]: [CHAT] <bot> Collect finish!
+[07:12:28] [Server thread/INFO]: <bot> Craft without a crafting table
+[07:12:28] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:12:28] [Render thread/INFO]: [CHAT] <bot> Craft without a crafting table
+[07:12:28] [Server thread/INFO]: <bot> I can make oak_planks
+[07:12:28] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:12:28] [Render thread/INFO]: [CHAT] <bot> I can make oak_planks
+[07:12:28] [Server thread/INFO]: <bot> I did the recipe for oak_planks 1 times
+[07:12:28] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:12:28] [Render thread/INFO]: [CHAT] <bot> I did the recipe for oak_planks 1 times
+[07:12:28] [Server thread/INFO]: <bot> Placing crafting_table on oak_leaves at (1009, 71, 897)
+[07:12:28] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:12:28] [Render thread/INFO]: [CHAT] <bot> Placing crafting_table on oak_leaves at (1009, 71, 897)
+[07:12:29] [Server thread/INFO]: <bot> Placed crafting_table
+[07:12:29] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:12:29] [Render thread/INFO]: [CHAT] <bot> Placed crafting_table
+[07:12:29] [Server thread/INFO]: <bot> I cannot make shield because I need: 2 more oak_planks
+[07:12:29] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:12:29] [Render thread/INFO]: [CHAT] <bot> I cannot make shield because I need: 2 more oak_planks
+[07:12:29] [Server thread/INFO]: <bot> Shield crafted.
+[07:12:29] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:12:29] [Server thread/INFO]: [bot: Изменён блок в точке 1009, 72, 897]
+[07:12:29] [Server thread/INFO]: [bot: Выдано 1 [Верстак] игроку bot]
+[07:12:29] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:12:29] [Render thread/INFO]: [CHAT] <bot> Shield crafted.
+[07:12:29] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:12:29] [Render thread/INFO]: [CHAT] [bot: Изменён блок в точке 1009, 72, 897]
+[07:12:29] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Верстак] игроку bot]
+[07:12:30] [Server thread/INFO]: [bot: Выдано 1 [Сундук] игроку bot]
+[07:12:30] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:12:30] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Сундук] игроку bot]
+[07:12:30] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:12:30] [Server thread/INFO]: [bot: Pausing server...]
+[07:12:30] [Server thread/INFO]: Server paused.
+[07:12:30] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:12:30] [Render thread/INFO]: [CHAT] Server paused.
+[07:12:30] [Server thread/INFO]: Saving and pausing game...
+[07:12:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:12:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:12:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:14:27] [Server thread/INFO]: [bot: Unpausing server...]
+[07:14:27] [Server thread/INFO]: Server unpaused.
+[07:14:27] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:14:27] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:14:34] [Server thread/INFO]: <bot> Collect finish!
+[07:14:34] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:14:34] [Render thread/INFO]: [CHAT] <bot> Collect finish!
+[07:14:34] [Server thread/INFO]: <bot> Craft without a crafting table
+[07:14:34] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:14:34] [Server thread/INFO]: <bot> I can make oak_planks
+[07:14:34] [Render thread/INFO]: [CHAT] <bot> Craft without a crafting table
+[07:14:34] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:14:34] [Render thread/INFO]: [CHAT] <bot> I can make oak_planks
+[07:14:34] [Server thread/INFO]: <bot> I did the recipe for oak_planks 1 times
+[07:14:34] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:14:34] [Render thread/INFO]: [CHAT] <bot> I did the recipe for oak_planks 1 times
+[07:14:34] [Server thread/INFO]: <bot> Placing crafting_table on oak_leaves at (1009, 70, 898)
+[07:14:34] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:14:34] [Render thread/INFO]: [CHAT] <bot> Placing crafting_table on oak_leaves at (1009, 70, 898)
+[07:14:35] [Server thread/INFO]: <bot> Placed crafting_table
+[07:14:35] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:14:35] [Render thread/INFO]: [CHAT] <bot> Placed crafting_table
+[07:14:35] [Server thread/INFO]: <bot> I can make shield
+[07:14:35] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:14:35] [Render thread/INFO]: [CHAT] <bot> I can make shield
+[07:14:35] [Server thread/INFO]: <bot> I did the recipe for shield 1 times
+[07:14:35] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:14:35] [Render thread/INFO]: [CHAT] <bot> I did the recipe for shield 1 times
+[07:14:35] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:14:35] [Server thread/INFO]: <bot> Shield crafted.
+[07:14:35] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:14:35] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:14:35] [Render thread/INFO]: [CHAT] <bot> Shield crafted.
+[07:14:35] [Server thread/INFO]: [bot: Изменён блок в точке 1009, 71, 898]
+[07:14:35] [Server thread/INFO]: [bot: Выдано 1 [Верстак] игроку bot]
+[07:14:35] [Render thread/INFO]: [CHAT] [bot: Изменён блок в точке 1009, 71, 898]
+[07:14:35] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Верстак] игроку bot]
+[07:14:36] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:14:36] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:14:36] [Server thread/INFO]: [bot: Pausing server...]
+[07:14:36] [Server thread/INFO]: Server paused.
+[07:14:36] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:14:36] [Render thread/INFO]: [CHAT] Server paused.
+[07:14:36] [Server thread/INFO]: Saving and pausing game...
+[07:14:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:14:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:14:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:14:56] [Server thread/INFO]: [bot: Unpausing server...]
+[07:14:56] [Server thread/INFO]: Server unpaused.
+[07:14:56] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:14:56] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:14:57] [Server thread/INFO]: bot lost connection: Отключение
+[07:14:57] [Server thread/INFO]: bot покинул игру
+[07:14:57] [Render thread/INFO]: [CHAT] bot покинул игру
+[07:14:59] [User Authenticator #4/WARN]: Failed to verify username but will let them in anyway!
+[07:14:59] [Server thread/INFO]: bot[/[0:0:0:0:0:0:0:1]:2717] logged in with entity id 14346 at (1008.5, 71.0, 898.4358477818546)
+[07:14:59] [Server thread/INFO]: bot присоединился к игре
+[07:14:59] [Render thread/INFO]: [CHAT] bot присоединился к игре
+[07:15:02] [Server thread/INFO]: [bot: Установлено значение игрового правила keepInventory: true]
+[07:15:02] [Server thread/INFO]: [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:15:02] [Server thread/INFO]: [bot: Pausing server...]
+[07:15:02] [Server thread/INFO]: Server paused.
+[07:15:02] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила keepInventory: true]
+[07:15:02] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:15:02] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:15:02] [Render thread/INFO]: [CHAT] Server paused.
+[07:15:02] [Server thread/INFO]: Saving and pausing game...
+[07:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:15:03] [Server thread/INFO]: [bot: Unpausing server...]
+[07:15:03] [Server thread/INFO]: Server unpaused.
+[07:15:03] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:15:03] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:15:05] [Server thread/INFO]: [bot: Установлено время: 2000]
+[07:15:05] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:15:05] [Render thread/INFO]: [CHAT] [bot: Установлено время: 2000]
+[07:15:05] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:15:07] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:15:07] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:15:07] [Server thread/INFO]: [bot: Pausing server...]
+[07:15:07] [Server thread/INFO]: Server paused.
+[07:15:07] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:15:07] [Render thread/INFO]: [CHAT] Server paused.
+[07:15:07] [Server thread/INFO]: Saving and pausing game...
+[07:15:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:15:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:15:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:16:13] [Server thread/INFO]: [bot: Unpausing server...]
+[07:16:13] [Server thread/INFO]: Server unpaused.
+[07:16:13] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:16:13] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:16:15] [Server thread/INFO]: <bot> Placing chest on oak_leaves at (1009, 70, 898)
+[07:16:15] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:16:15] [Render thread/INFO]: [CHAT] <bot> Placing chest on oak_leaves at (1009, 70, 898)
+[07:16:16] [Server thread/INFO]: <bot> Placed chest
+[07:16:16] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:16:16] [Render thread/INFO]: [CHAT] <bot> Placed chest
+[07:16:16] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:16:16] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:16:18] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:16:18] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:16:18] [Server thread/INFO]: [bot: Pausing server...]
+[07:16:18] [Server thread/INFO]: Server paused.
+[07:16:18] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:16:18] [Render thread/INFO]: [CHAT] Server paused.
+[07:16:18] [Server thread/INFO]: Saving and pausing game...
+[07:16:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:16:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:16:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:17:46] [Server thread/INFO]: [bot: Unpausing server...]
+[07:17:46] [Server thread/INFO]: Server unpaused.
+[07:17:46] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:17:46] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:17:48] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:17:48] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:17:50] [Server thread/INFO]: [bot: Выдано 1 [Сундук] игроку bot]
+[07:17:50] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:17:50] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Сундук] игроку bot]
+[07:17:50] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:17:50] [Server thread/INFO]: [bot: Pausing server...]
+[07:17:50] [Server thread/INFO]: Server paused.
+[07:17:50] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:17:50] [Render thread/INFO]: [CHAT] Server paused.
+[07:17:50] [Server thread/INFO]: Saving and pausing game...
+[07:17:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:17:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:17:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:19:43] [Server thread/INFO]: [bot: Unpausing server...]
+[07:19:43] [Server thread/INFO]: Server unpaused.
+[07:19:43] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:19:43] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:29:47] [Server thread/INFO]: bot lost connection: Отключение
+[07:29:47] [Server thread/INFO]: bot покинул игру
+[07:29:47] [Render thread/INFO]: [CHAT] bot покинул игру
+[07:29:49] [User Authenticator #5/WARN]: Failed to verify username but will let them in anyway!
+[07:29:49] [Server thread/INFO]: bot[/[0:0:0:0:0:0:0:1]:2779] logged in with entity id 16429 at (1013.5, 69.0, 903.5)
+[07:29:49] [Server thread/INFO]: bot присоединился к игре
+[07:29:49] [Render thread/INFO]: [CHAT] bot присоединился к игре
+[07:29:51] [Server thread/INFO]: [bot: Удалено 442 предметов у игрока bot]
+[07:29:51] [Server thread/INFO]: Searching for respawn location - Attempt 1/16
+[07:29:51] [Server thread/INFO]: Found valid respawn location: [1008, 72, 896]
+[07:29:51] [Server thread/INFO]: Set temporary respawn location to [1008, 72, 896]
+[07:29:51] [Server thread/INFO]: bot выпал из мира
+[07:29:51] [Server thread/INFO]: [bot: bot убит]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 2 [Стрела] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 2 [Дубовые доски] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Гнилая плоть] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 2 [Рудное железо] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 9 [Рудная медь] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 5 [Натёчный камень] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Рудное золото] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 4 [Кальцит] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Туф] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 2 [Гладкий базальт] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 10 [Капельник] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 46 [Колотый глубинный сланец] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Саженец ели] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Удалено 442 предметов у игрока bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 33 [Гранит] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] bot выпал из мира
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: bot убит]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 2 [Стрела] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 2 [Дубовые доски] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 226 [Булыжник] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Гнилая плоть] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 2 [Рудное железо] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 9 [Рудная медь] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 2 [Кость] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 5 [Натёчный камень] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Рудное золото] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 3 [Андезит] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 4 [Кальцит] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Туф] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 2 [Гладкий базальт] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Щит] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 10 [Капельник] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 46 [Колотый глубинный сланец] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Саженец ели] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 49 [Редстоуновая пыль] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 33 [Гранит] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 226 [Булыжник] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 8 [Лазурит] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 2 [Кость] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 3 [Андезит] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 3 [Палка] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Щит] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 49 [Редстоуновая пыль] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Стейк] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 8 [Лазурит] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 3 [Палка] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Стейк] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Саженец дуба] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Саженец дуба] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Сундук] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Печь] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 3 [Бумага] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Паучий глаз] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 2 [Верстак] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 16 [Диорит] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 1 [Железная кирка] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: Выдано 4 [Аметистовый блок] игроку bot]
+[07:29:51] [Server thread/INFO]: [bot: bot телепортирован в точку 1008.500000, 71.000000, 898.435848]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Сундук] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Печь] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 3 [Бумага] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Паучий глаз] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 2 [Верстак] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 16 [Диорит] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Железная кирка] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: Выдано 4 [Аметистовый блок] игроку bot]
+[07:29:51] [Render thread/INFO]: [CHAT] [bot: bot телепортирован в точку 1008.500000, 71.000000, 898.435848]
+[07:29:51] [Server thread/INFO]: Updating the respawn location of player bot to [NONE]
+[07:29:51] [Server thread/INFO]: [daswer123: daswer123 телепортирован к bot]
+[07:29:51] [Render thread/INFO]: [CHAT] daswer123 телепортирован к bot
+[07:30:23] [Server thread/INFO]: [bot: Установлено значение игрового правила keepInventory: true]
+[07:30:23] [Server thread/INFO]: [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:30:23] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила keepInventory: true]
+[07:30:23] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:30:23] [Server thread/INFO]: [bot: Pausing server...]
+[07:30:23] [Server thread/INFO]: Server paused.
+[07:30:23] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:30:23] [Render thread/INFO]: [CHAT] Server paused.
+[07:30:23] [Server thread/INFO]: Saving and pausing game...
+[07:30:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:30:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:30:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:30:24] [Server thread/INFO]: [bot: Unpausing server...]
+[07:30:24] [Server thread/INFO]: Server unpaused.
+[07:30:24] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:30:24] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:30:25] [Server thread/INFO]: bot lost connection: Отключение
+[07:30:25] [Server thread/INFO]: bot покинул игру
+[07:30:25] [Render thread/INFO]: [CHAT] bot покинул игру
+[07:30:27] [User Authenticator #6/WARN]: Failed to verify username but will let them in anyway!
+[07:30:27] [Server thread/INFO]: bot[/[0:0:0:0:0:0:0:1]:2785] logged in with entity id 16688 at (1008.5, 72.0, 896.5)
+[07:30:27] [Server thread/INFO]: bot присоединился к игре
+[07:30:27] [Render thread/INFO]: [CHAT] bot присоединился к игре
+[07:30:30] [Server thread/INFO]: [bot: Установлено значение игрового правила keepInventory: true]
+[07:30:30] [Server thread/INFO]: [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:30:30] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила keepInventory: true]
+[07:30:30] [Server thread/INFO]: [bot: Pausing server...]
+[07:30:30] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:30:30] [Server thread/INFO]: Server paused.
+[07:30:30] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:30:30] [Render thread/INFO]: [CHAT] Server paused.
+[07:30:30] [Server thread/INFO]: Saving and pausing game...
+[07:30:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:30:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:30:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:30:31] [Server thread/INFO]: [bot: Unpausing server...]
+[07:30:31] [Server thread/INFO]: Server unpaused.
+[07:30:31] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:30:31] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:30:33] [Server thread/INFO]: [bot: Установлено время: 3000]
+[07:30:33] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:30:33] [Render thread/INFO]: [CHAT] [bot: Установлено время: 3000]
+[07:30:33] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:30:35] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:30:35] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:30:36] [Server thread/INFO]: [bot: Pausing server...]
+[07:30:36] [Server thread/INFO]: Server paused.
+[07:30:36] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:30:36] [Render thread/INFO]: [CHAT] Server paused.
+[07:30:36] [Server thread/INFO]: Saving and pausing game...
+[07:30:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:30:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:30:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:31:24] [Server thread/INFO]: [bot: Unpausing server...]
+[07:31:24] [Server thread/INFO]: Server unpaused.
+[07:31:24] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:31:24] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:31:26] [Server thread/INFO]: <bot> Placing chest on oak_leaves at (1009, 71, 896)
+[07:31:26] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:31:26] [Render thread/INFO]: [CHAT] <bot> Placing chest on oak_leaves at (1009, 71, 896)
+[07:31:27] [Server thread/INFO]: <bot> Placed chest
+[07:31:27] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:31:27] [Render thread/INFO]: [CHAT] <bot> Placed chest
+[07:31:27] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:31:27] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:31:29] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:31:29] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:31:29] [Server thread/INFO]: [bot: Pausing server...]
+[07:31:29] [Server thread/INFO]: Server paused.
+[07:31:29] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:31:29] [Render thread/INFO]: [CHAT] Server paused.
+[07:31:29] [Server thread/INFO]: Saving and pausing game...
+[07:31:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:31:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:31:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:32:49] [Server thread/INFO]: [bot: Unpausing server...]
+[07:32:49] [Server thread/INFO]: Server unpaused.
+[07:32:49] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:32:49] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:32:51] [Server thread/INFO]: <bot> No chest in inventory
+[07:32:51] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:32:51] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:32:51] [Render thread/INFO]: [CHAT] <bot> No chest in inventory
+[07:32:51] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:32:54] [Server thread/INFO]: [bot: Выдано 1 [Сундук] игроку bot]
+[07:32:54] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:32:54] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Сундук] игроку bot]
+[07:32:54] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:32:54] [Server thread/INFO]: [bot: Pausing server...]
+[07:32:54] [Server thread/INFO]: Server paused.
+[07:32:54] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:32:54] [Render thread/INFO]: [CHAT] Server paused.
+[07:32:54] [Server thread/INFO]: Saving and pausing game...
+[07:32:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:32:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:32:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:34:12] [Server thread/INFO]: [bot: Unpausing server...]
+[07:34:12] [Server thread/INFO]: Server unpaused.
+[07:34:12] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:34:12] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:34:14] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:34:14] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:34:17] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:34:17] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:34:17] [Server thread/INFO]: [bot: Pausing server...]
+[07:34:17] [Server thread/INFO]: Server paused.
+[07:34:17] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:34:17] [Render thread/INFO]: [CHAT] Server paused.
+[07:34:17] [Server thread/INFO]: Saving and pausing game...
+[07:34:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:34:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:34:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:35:58] [Server thread/INFO]: [bot: Unpausing server...]
+[07:35:58] [Server thread/INFO]: Server unpaused.
+[07:35:58] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:35:58] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:36:00] [Server thread/INFO]: <bot> Placing chest on grass_block at (1008, 69, 896)
+[07:36:00] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:36:00] [Render thread/INFO]: [CHAT] <bot> Placing chest on grass_block at (1008, 69, 896)
+[07:36:02] [Server thread/INFO]: <bot> Placed chest
+[07:36:02] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:36:02] [Render thread/INFO]: [CHAT] <bot> Placed chest
+[07:36:02] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:36:02] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:36:05] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:36:05] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:36:05] [Server thread/INFO]: [bot: Pausing server...]
+[07:36:05] [Server thread/INFO]: Server paused.
+[07:36:05] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:36:05] [Render thread/INFO]: [CHAT] Server paused.
+[07:36:05] [Server thread/INFO]: Saving and pausing game...
+[07:36:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:36:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:36:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:36:06] [Server thread/INFO]: [bot: Unpausing server...]
+[07:36:06] [Server thread/INFO]: Server unpaused.
+[07:36:06] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:36:06] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:36:07] [Server thread/INFO]: bot lost connection: Отключение
+[07:36:07] [Server thread/INFO]: bot покинул игру
+[07:36:07] [Render thread/INFO]: [CHAT] bot покинул игру
+[07:36:09] [User Authenticator #7/WARN]: Failed to verify username but will let them in anyway!
+[07:36:09] [Server thread/INFO]: bot[/[0:0:0:0:0:0:0:1]:3121] logged in with entity id 16794 at (1008.5, 70.0, 895.6467126509161)
+[07:36:09] [Server thread/INFO]: bot присоединился к игре
+[07:36:09] [Render thread/INFO]: [CHAT] bot присоединился к игре
+[07:36:12] [Server thread/INFO]: [bot: Установлено значение игрового правила keepInventory: true]
+[07:36:12] [Server thread/INFO]: [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:36:12] [Server thread/INFO]: [bot: Pausing server...]
+[07:36:12] [Server thread/INFO]: Server paused.
+[07:36:12] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила keepInventory: true]
+[07:36:12] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doDaylightCycle: false]
+[07:36:12] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:36:12] [Render thread/INFO]: [CHAT] Server paused.
+[07:36:12] [Server thread/INFO]: Saving and pausing game...
+[07:36:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:36:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:36:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:36:13] [Server thread/INFO]: [bot: Unpausing server...]
+[07:36:13] [Server thread/INFO]: Server unpaused.
+[07:36:13] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:36:13] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:36:15] [Server thread/INFO]: [bot: Установлено время: 4000]
+[07:36:15] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:36:15] [Render thread/INFO]: [CHAT] [bot: Установлено время: 4000]
+[07:36:15] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:36:18] [Server thread/INFO]: [bot: Выдано 1 [Сундук] игроку bot]
+[07:36:18] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:36:18] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Сундук] игроку bot]
+[07:36:18] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:36:18] [Server thread/INFO]: [bot: Pausing server...]
+[07:36:18] [Server thread/INFO]: Server paused.
+[07:36:18] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:36:18] [Render thread/INFO]: [CHAT] Server paused.
+[07:36:18] [Server thread/INFO]: Saving and pausing game...
+[07:36:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:36:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:36:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:37:45] [Server thread/INFO]: [bot: Unpausing server...]
+[07:37:45] [Server thread/INFO]: Server unpaused.
+[07:37:45] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:37:45] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:37:47] [Server thread/INFO]: <bot> Placing chest on grass_block at (1009, 69, 895)
+[07:37:47] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:37:47] [Render thread/INFO]: [CHAT] <bot> Placing chest on grass_block at (1009, 69, 895)
+[07:37:48] [Server thread/INFO]: <bot> Placed chest
+[07:37:48] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:37:48] [Render thread/INFO]: [CHAT] <bot> Placed chest
+[07:37:48] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:37:48] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:37:50] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:37:50] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:37:50] [Server thread/INFO]: [bot: Pausing server...]
+[07:37:50] [Server thread/INFO]: Server paused.
+[07:37:50] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:37:50] [Render thread/INFO]: [CHAT] Server paused.
+[07:37:50] [Server thread/INFO]: Saving and pausing game...
+[07:37:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:37:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:37:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end
+[07:39:03] [Server thread/INFO]: [bot: Unpausing server...]
+[07:39:03] [Server thread/INFO]: Server unpaused.
+[07:39:03] [Render thread/INFO]: [CHAT] [bot: Unpausing server...]
+[07:39:03] [Render thread/INFO]: [CHAT] Server unpaused.
+[07:39:05] [Server thread/INFO]: <bot> No chest in inventory
+[07:39:05] [Render thread/WARN]: Received chat packet without valid signature from bot
+[07:39:05] [Render thread/INFO]: [CHAT] <bot> No chest in inventory
+[07:39:05] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: false]
+[07:39:05] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: false]
+[07:39:07] [Server thread/INFO]: [bot: Выдано 1 [Сундук] игроку bot]
+[07:39:07] [Server thread/INFO]: [bot: Установлено значение игрового правила doTileDrops: true]
+[07:39:07] [Render thread/INFO]: [CHAT] [bot: Выдано 1 [Сундук] игроку bot]
+[07:39:07] [Render thread/INFO]: [CHAT] [bot: Установлено значение игрового правила doTileDrops: true]
+[07:39:07] [Server thread/INFO]: [bot: Pausing server...]
+[07:39:07] [Server thread/INFO]: Server paused.
+[07:39:07] [Render thread/INFO]: [CHAT] [bot: Pausing server...]
+[07:39:07] [Render thread/INFO]: [CHAT] Server paused.
+[07:39:07] [Server thread/INFO]: Saving and pausing game...
+[07:39:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:overworld
+[07:39:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_nether
+[07:39:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new]'/minecraft:the_end

@@ -1,0 +1,60 @@
+2023-05-26 18:34:03,919 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 18:34:04,928 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 18:34:05,280 - mineflayer - INFO - Server started on port 3000
+2023-05-26 18:34:05,280 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 18:34:05,318 - mineflayer - INFO - {
+2023-05-26 18:34:05,318 - mineflayer - INFO - port: 4127,
+2023-05-26 18:34:05,318 - mineflayer - INFO - reset: 'hard',
+2023-05-26 18:34:05,318 - mineflayer - INFO - inventory: {},
+2023-05-26 18:34:05,318 - mineflayer - INFO - equipment: [],
+2023-05-26 18:34:05,318 - mineflayer - INFO - spread: false,
+2023-05-26 18:34:05,322 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 18:34:05,322 - mineflayer - INFO - position: null
+2023-05-26 18:34:05,322 - mineflayer - INFO - }
+2023-05-26 18:34:05,461 - mineflayer - INFO - AggregateError
+2023-05-26 18:34:05,461 - mineflayer - INFO - at internalConnectMultiple (node:net:1103:18)
+2023-05-26 18:34:05,461 - mineflayer - INFO - at afterConnectMultiple (node:net:1616:5) {
+2023-05-26 18:34:05,461 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:34:05,461 - mineflayer - INFO - [errors]: [
+2023-05-26 18:34:05,461 - mineflayer - INFO - Error: connect ECONNREFUSED ::1:4127
+2023-05-26 18:34:05,461 - mineflayer - INFO - at afterConnectMultiple (node:net:1603:16) {
+2023-05-26 18:34:05,461 - mineflayer - INFO - errno: -4078,
+2023-05-26 18:34:05,461 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:34:05,461 - mineflayer - INFO - syscall: 'connect',
+2023-05-26 18:34:05,461 - mineflayer - INFO - address: '::1',
+2023-05-26 18:34:05,461 - mineflayer - INFO - port: 4127
+2023-05-26 18:34:05,461 - mineflayer - INFO - },
+2023-05-26 18:34:05,461 - mineflayer - INFO - Error: connect ECONNREFUSED 127.0.0.1:4127
+2023-05-26 18:34:05,461 - mineflayer - INFO - at afterConnectMultiple (node:net:1603:16) {
+2023-05-26 18:34:05,461 - mineflayer - INFO - errno: -4078,
+2023-05-26 18:34:05,461 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:34:05,461 - mineflayer - INFO - syscall: 'connect',
+2023-05-26 18:34:05,461 - mineflayer - INFO - address: '127.0.0.1',
+2023-05-26 18:34:05,461 - mineflayer - INFO - port: 4127
+2023-05-26 18:34:05,461 - mineflayer - INFO - }
+2023-05-26 18:34:05,461 - mineflayer - INFO - ]
+2023-05-26 18:34:05,461 - mineflayer - INFO - }
+2023-05-26 18:34:05,461 - mineflayer - INFO - AggregateError
+2023-05-26 18:34:05,461 - mineflayer - INFO - at internalConnectMultiple (node:net:1103:18)
+2023-05-26 18:34:05,461 - mineflayer - INFO - at afterConnectMultiple (node:net:1616:5) {
+2023-05-26 18:34:05,461 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:34:05,461 - mineflayer - INFO - [errors]: [
+2023-05-26 18:34:05,462 - mineflayer - INFO - Error: connect ECONNREFUSED ::1:4127
+2023-05-26 18:34:05,462 - mineflayer - INFO - at afterConnectMultiple (node:net:1603:16) {
+2023-05-26 18:34:05,462 - mineflayer - INFO - errno: -4078,
+2023-05-26 18:34:05,462 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:34:05,462 - mineflayer - INFO - syscall: 'connect',
+2023-05-26 18:34:05,462 - mineflayer - INFO - address: '::1',
+2023-05-26 18:34:05,462 - mineflayer - INFO - port: 4127
+2023-05-26 18:34:05,462 - mineflayer - INFO - },
+2023-05-26 18:34:05,462 - mineflayer - INFO - Error: connect ECONNREFUSED 127.0.0.1:4127
+2023-05-26 18:34:05,462 - mineflayer - INFO - at afterConnectMultiple (node:net:1603:16) {
+2023-05-26 18:34:05,462 - mineflayer - INFO - errno: -4078,
+2023-05-26 18:34:05,462 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:34:05,462 - mineflayer - INFO - syscall: 'connect',
+2023-05-26 18:34:05,462 - mineflayer - INFO - address: '127.0.0.1',
+2023-05-26 18:34:05,462 - mineflayer - INFO - port: 4127
+2023-05-26 18:34:05,462 - mineflayer - INFO - }
+2023-05-26 18:34:05,462 - mineflayer - INFO - ]
+2023-05-26 18:34:05,462 - mineflayer - INFO - }
+2023-05-26 18:34:05,464 - mineflayer - INFO - Stopping subprocess.

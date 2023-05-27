@@ -1,0 +1,3 @@
+async function craftWoodenPlanks(bot) {
+    // The function crafts 4 wooden planks using a spruce log in the inventory. If there is no crafting table nearby, it crafts one using the spruce log. Then, it places the crafting table near the bot and crafts the wooden planks.
+}

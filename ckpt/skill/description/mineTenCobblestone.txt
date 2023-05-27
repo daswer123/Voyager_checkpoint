@@ -1,0 +1,3 @@
+async function mineTenCobblestone(bot) {
+    // The function is about mining 10 cobblestones. It explores the environment until finding a stone block. Once a stone block is found, it mines a total of 10 cobblestone blocks using the wooden pickaxe. If it cannot find a stone block, it sends a message saying it could not find one.
+}

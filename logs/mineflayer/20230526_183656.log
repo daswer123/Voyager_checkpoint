@@ -1,0 +1,103 @@
+2023-05-26 18:36:56,718 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 18:36:57,723 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 18:36:58,074 - mineflayer - INFO - Server started on port 3000
+2023-05-26 18:36:58,074 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 18:36:58,111 - mineflayer - INFO - {
+2023-05-26 18:36:58,111 - mineflayer - INFO - port: 13600,
+2023-05-26 18:36:58,111 - mineflayer - INFO - reset: 'hard',
+2023-05-26 18:36:58,111 - mineflayer - INFO - inventory: {},
+2023-05-26 18:36:58,111 - mineflayer - INFO - equipment: [],
+2023-05-26 18:36:58,111 - mineflayer - INFO - spread: false,
+2023-05-26 18:36:58,114 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 18:36:58,115 - mineflayer - INFO - position: null
+2023-05-26 18:36:58,115 - mineflayer - INFO - }
+2023-05-26 18:37:09,675 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 18:37:10,698 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 18:37:11,059 - mineflayer - INFO - Server started on port 3000
+2023-05-26 18:37:11,059 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 18:37:11,070 - mineflayer - INFO - {
+2023-05-26 18:37:11,070 - mineflayer - INFO - port: 13600,
+2023-05-26 18:37:11,070 - mineflayer - INFO - reset: 'soft',
+2023-05-26 18:37:11,070 - mineflayer - INFO - inventory: {},
+2023-05-26 18:37:11,070 - mineflayer - INFO - equipment: [],
+2023-05-26 18:37:11,070 - mineflayer - INFO - spread: false,
+2023-05-26 18:37:11,070 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 18:37:11,070 - mineflayer - INFO - position: null
+2023-05-26 18:37:11,070 - mineflayer - INFO - }
+2023-05-26 18:40:11,891 - mineflayer - INFO - No path to oak_log at (205, 66, 77)! Skip it!
+2023-05-26 18:40:11,996 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 18:40:11,996 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:4:15)
+2023-05-26 18:40:11,996 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:98:9)
+2023-05-26 18:40:11,996 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:795:11)
+2023-05-26 18:40:11,997 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:862:1)
+2023-05-26 18:40:11,997 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 18:40:11,997 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 18:40:11,997 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 18:40:11,997 - mineflayer - INFO - No crafting table nearby
+2023-05-26 18:40:11,997 - mineflayer - INFO - at line 53:await craftItem(bot, "wooden_pickaxe", 1); in your code
+2023-05-26 18:44:29,474 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 18:44:30,513 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 18:44:30,873 - mineflayer - INFO - Server started on port 3000
+2023-05-26 18:44:30,873 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 18:44:30,885 - mineflayer - INFO - {
+2023-05-26 18:44:30,885 - mineflayer - INFO - port: 13600,
+2023-05-26 18:44:30,885 - mineflayer - INFO - reset: 'soft',
+2023-05-26 18:44:30,885 - mineflayer - INFO - inventory: {},
+2023-05-26 18:44:30,885 - mineflayer - INFO - equipment: [],
+2023-05-26 18:44:30,885 - mineflayer - INFO - spread: false,
+2023-05-26 18:44:30,885 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 18:44:30,885 - mineflayer - INFO - position: null
+2023-05-26 18:44:30,887 - mineflayer - INFO - }
+2023-05-26 18:45:57,482 - mineflayer - INFO - TypeError: bot.recipesFor(...).next is not a function
+2023-05-26 18:45:57,483 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:756:95)
+2023-05-26 18:45:57,483 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:785:7)
+2023-05-26 18:45:57,483 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:785:26)
+2023-05-26 18:45:57,483 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 18:45:57,483 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 18:45:57,484 - mineflayer - INFO - Your code:14
+2023-05-26 18:45:57,484 - mineflayer - INFO - const recipe = bot.recipesFor(mcData.itemsByName[axe].id, null, 1, bot.inventory.items()).next().value;
+2023-05-26 18:45:57,484 - mineflayer - INFO - bot.recipesFor(...).next is not a function
+2023-05-26 18:45:57,484 - mineflayer - INFO - 
+2023-05-26 18:47:18,823 - mineflayer - INFO - TypeError: bot.recipesFor(...)?.next is not a function
+2023-05-26 18:47:18,824 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:756:96)
+2023-05-26 18:47:18,824 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:785:7)
+2023-05-26 18:47:18,824 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:785:26)
+2023-05-26 18:47:18,824 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 18:47:18,824 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 18:47:18,824 - mineflayer - INFO - Your code:14
+2023-05-26 18:47:18,824 - mineflayer - INFO - const recipe = bot.recipesFor(mcData.itemsByName[axe].id, null, 1, bot.inventory.items())?.next()?.value;
+2023-05-26 18:47:18,824 - mineflayer - INFO - bot.recipesFor(...)?.next is not a function
+2023-05-26 18:47:18,824 - mineflayer - INFO - 
+2023-05-26 18:48:51,494 - mineflayer - INFO - TypeError: bot.recipesFor(...)?.next is not a function
+2023-05-26 18:48:51,494 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:756:96)
+2023-05-26 18:48:51,494 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:791:7)
+2023-05-26 18:48:51,494 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:791:26)
+2023-05-26 18:48:51,494 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 18:48:51,494 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 18:48:51,495 - mineflayer - INFO - Your code:14
+2023-05-26 18:48:51,495 - mineflayer - INFO - const recipe = bot.recipesFor(mcData.itemsByName[axe].id, null, 1, bot.inventory.items())?.next()?.value;
+2023-05-26 18:48:51,495 - mineflayer - INFO - bot.recipesFor(...)?.next is not a function
+2023-05-26 18:48:51,495 - mineflayer - INFO - 
+2023-05-26 18:50:08,674 - mineflayer - INFO - TypeError: bot.recipesFor(...)?.next is not a function
+2023-05-26 18:50:08,674 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:756:73)
+2023-05-26 18:50:08,674 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:791:7)
+2023-05-26 18:50:08,674 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:791:26)
+2023-05-26 18:50:08,674 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 18:50:08,674 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 18:50:08,674 - mineflayer - INFO - Your code:14
+2023-05-26 18:50:08,674 - mineflayer - INFO - const recipe = bot.recipesFor(mcData.itemsByName[axe].id, null, 1)?.next()?.value;
+2023-05-26 18:50:08,674 - mineflayer - INFO - bot.recipesFor(...)?.next is not a function
+2023-05-26 18:50:08,674 - mineflayer - INFO - 
+2023-05-26 18:50:12,622 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 18:50:13,652 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 18:50:14,006 - mineflayer - INFO - Server started on port 3000
+2023-05-26 18:50:14,007 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 18:50:14,040 - mineflayer - INFO - {
+2023-05-26 18:50:14,041 - mineflayer - INFO - port: 13600,
+2023-05-26 18:50:14,041 - mineflayer - INFO - reset: 'soft',
+2023-05-26 18:50:14,041 - mineflayer - INFO - inventory: {},
+2023-05-26 18:50:14,041 - mineflayer - INFO - equipment: [],
+2023-05-26 18:50:14,041 - mineflayer - INFO - spread: false,
+2023-05-26 18:50:14,041 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 18:50:14,041 - mineflayer - INFO - position: null
+2023-05-26 18:50:14,041 - mineflayer - INFO - }

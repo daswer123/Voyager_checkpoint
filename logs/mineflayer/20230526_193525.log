@@ -1,0 +1,204 @@
+2023-05-26 19:35:25,356 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 19:37:28,554 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 19:37:28,940 - mineflayer - INFO - Server started on port 3000
+2023-05-26 19:37:28,940 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 19:37:28,974 - mineflayer - INFO - {
+2023-05-26 19:37:28,974 - mineflayer - INFO - port: 14954,
+2023-05-26 19:37:28,974 - mineflayer - INFO - reset: 'hard',
+2023-05-26 19:37:28,974 - mineflayer - INFO - inventory: {},
+2023-05-26 19:37:28,974 - mineflayer - INFO - equipment: [],
+2023-05-26 19:37:28,974 - mineflayer - INFO - spread: false,
+2023-05-26 19:37:28,978 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 19:37:28,978 - mineflayer - INFO - position: null
+2023-05-26 19:37:28,978 - mineflayer - INFO - }
+2023-05-26 19:37:37,893 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 19:37:38,923 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 19:37:39,294 - mineflayer - INFO - Server started on port 3000
+2023-05-26 19:37:39,294 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 19:37:39,324 - mineflayer - INFO - {
+2023-05-26 19:37:39,325 - mineflayer - INFO - port: 14954,
+2023-05-26 19:37:39,325 - mineflayer - INFO - reset: 'soft',
+2023-05-26 19:37:39,325 - mineflayer - INFO - inventory: {},
+2023-05-26 19:37:39,325 - mineflayer - INFO - equipment: [],
+2023-05-26 19:37:39,325 - mineflayer - INFO - spread: false,
+2023-05-26 19:37:39,325 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 19:37:39,325 - mineflayer - INFO - position: null
+2023-05-26 19:37:39,325 - mineflayer - INFO - }
+2023-05-26 19:39:41,777 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 19:39:41,777 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:4:15)
+2023-05-26 19:39:41,777 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:98:9)
+2023-05-26 19:39:41,777 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:757:11)
+2023-05-26 19:39:41,777 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:811:7)
+2023-05-26 19:39:41,777 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:811:26)
+2023-05-26 19:39:41,777 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 19:39:41,777 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 19:39:41,777 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 19:39:41,777 - mineflayer - INFO - No crafting table nearby
+2023-05-26 19:39:41,777 - mineflayer - INFO - at line 15:await craftItem(bot, "wooden_axe"); in your code
+2023-05-26 19:45:40,793 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 19:45:41,825 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 19:45:42,183 - mineflayer - INFO - Server started on port 3000
+2023-05-26 19:45:42,183 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 19:45:42,194 - mineflayer - INFO - {
+2023-05-26 19:45:42,195 - mineflayer - INFO - port: 14954,
+2023-05-26 19:45:42,195 - mineflayer - INFO - reset: 'soft',
+2023-05-26 19:45:42,195 - mineflayer - INFO - inventory: {},
+2023-05-26 19:45:42,195 - mineflayer - INFO - equipment: [],
+2023-05-26 19:45:42,195 - mineflayer - INFO - spread: false,
+2023-05-26 19:45:42,195 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 19:45:42,195 - mineflayer - INFO - position: null
+2023-05-26 19:45:42,195 - mineflayer - INFO - }
+2023-05-26 19:46:54,553 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 19:46:54,553 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:4:15)
+2023-05-26 19:46:54,553 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:98:9)
+2023-05-26 19:46:54,553 - mineflayer - INFO - at mineWoodLog (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:773:11)
+2023-05-26 19:46:54,553 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-26 19:46:54,553 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:777:1)
+2023-05-26 19:46:54,553 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 19:46:54,553 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 19:46:54,553 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 19:46:54,553 - mineflayer - INFO - No crafting table nearby
+2023-05-26 19:46:54,553 - mineflayer - INFO - at line 31:await craftItem(bot, "wooden_axe"); in your code
+2023-05-26 19:52:21,979 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 19:52:23,011 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 19:52:23,370 - mineflayer - INFO - Server started on port 3000
+2023-05-26 19:52:23,370 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 19:52:23,398 - mineflayer - INFO - {
+2023-05-26 19:52:23,398 - mineflayer - INFO - port: 14954,
+2023-05-26 19:52:23,398 - mineflayer - INFO - reset: 'soft',
+2023-05-26 19:52:23,398 - mineflayer - INFO - inventory: {},
+2023-05-26 19:52:23,398 - mineflayer - INFO - equipment: [],
+2023-05-26 19:52:23,398 - mineflayer - INFO - spread: false,
+2023-05-26 19:52:23,398 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 19:52:23,398 - mineflayer - INFO - position: null
+2023-05-26 19:52:23,398 - mineflayer - INFO - }
+2023-05-26 19:54:27,454 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 19:54:27,454 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:76:15)
+2023-05-26 19:54:27,454 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:170:9)
+2023-05-26 19:54:27,454 - mineflayer - INFO - at catchFish (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:841:11)
+2023-05-26 19:54:27,454 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:862:1)
+2023-05-26 19:54:27,454 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 19:54:27,454 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 19:54:27,454 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 19:54:27,454 - mineflayer - INFO - No crafting table nearby
+2023-05-26 19:54:27,454 - mineflayer - INFO - at line 27:await craftItem(bot, "string", 2); in your code
+2023-05-26 19:56:09,225 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 19:56:09,225 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:76:15)
+2023-05-26 19:56:09,226 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:170:9)
+2023-05-26 19:56:09,226 - mineflayer - INFO - at catchFish (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:841:11)
+2023-05-26 19:56:09,226 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:885:1)
+2023-05-26 19:56:09,227 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 19:56:09,227 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 19:56:09,227 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 19:56:09,227 - mineflayer - INFO - No crafting table nearby
+2023-05-26 19:56:09,227 - mineflayer - INFO - at line 27:await craftItem(bot, "string", 2); in your code
+2023-05-26 19:58:52,433 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 19:58:53,459 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 19:58:53,819 - mineflayer - INFO - Server started on port 3000
+2023-05-26 19:58:53,819 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 19:58:53,831 - mineflayer - INFO - {
+2023-05-26 19:58:53,831 - mineflayer - INFO - port: 14954,
+2023-05-26 19:58:53,831 - mineflayer - INFO - reset: 'soft',
+2023-05-26 19:58:53,831 - mineflayer - INFO - inventory: {},
+2023-05-26 19:58:53,831 - mineflayer - INFO - equipment: [],
+2023-05-26 19:58:53,831 - mineflayer - INFO - spread: false,
+2023-05-26 19:58:53,832 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 19:58:53,832 - mineflayer - INFO - position: null
+2023-05-26 19:58:53,832 - mineflayer - INFO - }
+2023-05-26 20:09:08,991 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:09:10,012 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:09:10,370 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:09:10,370 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:09:10,399 - mineflayer - INFO - {
+2023-05-26 20:09:10,399 - mineflayer - INFO - port: 14954,
+2023-05-26 20:09:10,400 - mineflayer - INFO - reset: 'soft',
+2023-05-26 20:09:10,400 - mineflayer - INFO - inventory: {},
+2023-05-26 20:09:10,400 - mineflayer - INFO - equipment: [],
+2023-05-26 20:09:10,400 - mineflayer - INFO - spread: false,
+2023-05-26 20:09:10,400 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:09:10,400 - mineflayer - INFO - position: null
+2023-05-26 20:09:10,400 - mineflayer - INFO - }
+2023-05-26 20:11:33,373 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 20:11:33,373 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:76:15)
+2023-05-26 20:11:33,373 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:170:9)
+2023-05-26 20:11:33,373 - mineflayer - INFO - at catchFish (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:845:9)
+2023-05-26 20:11:33,373 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:862:1)
+2023-05-26 20:11:33,373 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 20:11:33,373 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 20:11:33,373 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 20:11:33,373 - mineflayer - INFO - No crafting table nearby
+2023-05-26 20:11:33,373 - mineflayer - INFO - at line 31:await craftItem(bot, "fishing_rod"); in your code
+2023-05-26 20:15:24,554 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 20:15:24,554 - mineflayer - INFO - at catchFish (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:835:13)
+2023-05-26 20:15:24,554 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-26 20:15:24,554 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:884:1)
+2023-05-26 20:15:24,555 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 20:15:24,555 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 20:15:24,555 - mineflayer - INFO - Your code:21
+2023-05-26 20:15:24,555 - mineflayer - INFO - throw new Error(`No crafting table nearby`);
+2023-05-26 20:15:24,555 - mineflayer - INFO - No crafting table nearby
+2023-05-26 20:15:24,555 - mineflayer - INFO - 
+2023-05-26 20:17:28,293 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:17:29,322 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:17:29,693 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:17:29,693 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:17:29,724 - mineflayer - INFO - {
+2023-05-26 20:17:29,724 - mineflayer - INFO - port: 14954,
+2023-05-26 20:17:29,724 - mineflayer - INFO - reset: 'soft',
+2023-05-26 20:17:29,724 - mineflayer - INFO - inventory: {},
+2023-05-26 20:17:29,724 - mineflayer - INFO - equipment: [],
+2023-05-26 20:17:29,724 - mineflayer - INFO - spread: false,
+2023-05-26 20:17:29,724 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:17:29,724 - mineflayer - INFO - position: null
+2023-05-26 20:17:29,724 - mineflayer - INFO - }
+2023-05-26 20:24:53,517 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:24:54,544 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:24:54,903 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:24:54,903 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:24:54,930 - mineflayer - INFO - {
+2023-05-26 20:24:54,930 - mineflayer - INFO - port: 14954,
+2023-05-26 20:24:54,930 - mineflayer - INFO - reset: 'soft',
+2023-05-26 20:24:54,930 - mineflayer - INFO - inventory: {},
+2023-05-26 20:24:54,930 - mineflayer - INFO - equipment: [],
+2023-05-26 20:24:54,930 - mineflayer - INFO - spread: false,
+2023-05-26 20:24:54,930 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:24:54,930 - mineflayer - INFO - position: null
+2023-05-26 20:24:54,930 - mineflayer - INFO - }
+2023-05-26 20:26:48,539 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 20:26:48,539 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:76:15)
+2023-05-26 20:26:48,539 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:170:9)
+2023-05-26 20:26:48,540 - mineflayer - INFO - at craftAndCatch (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:856:11)
+2023-05-26 20:26:48,540 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-26 20:26:48,540 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:877:1)
+2023-05-26 20:26:48,540 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 20:26:48,540 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 20:26:48,540 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 20:26:48,540 - mineflayer - INFO - No crafting table nearby
+2023-05-26 20:26:48,540 - mineflayer - INFO - at line 42:await craftItem(bot, "string", 2); in your code
+2023-05-26 20:31:18,240 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:31:19,272 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:31:19,632 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:31:19,633 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:31:19,657 - mineflayer - INFO - {
+2023-05-26 20:31:19,657 - mineflayer - INFO - port: 14954,
+2023-05-26 20:31:19,657 - mineflayer - INFO - reset: 'soft',
+2023-05-26 20:31:19,657 - mineflayer - INFO - inventory: {},
+2023-05-26 20:31:19,657 - mineflayer - INFO - equipment: [],
+2023-05-26 20:31:19,657 - mineflayer - INFO - spread: false,
+2023-05-26 20:31:19,657 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:31:19,657 - mineflayer - INFO - position: null
+2023-05-26 20:31:19,657 - mineflayer - INFO - }
+2023-05-26 20:38:41,741 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:38:42,764 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:38:43,138 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:38:43,138 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:38:43,163 - mineflayer - INFO - {
+2023-05-26 20:38:43,163 - mineflayer - INFO - port: 14954,
+2023-05-26 20:38:43,163 - mineflayer - INFO - reset: 'soft',
+2023-05-26 20:38:43,163 - mineflayer - INFO - inventory: {},
+2023-05-26 20:38:43,163 - mineflayer - INFO - equipment: [],
+2023-05-26 20:38:43,163 - mineflayer - INFO - spread: false,
+2023-05-26 20:38:43,163 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:38:43,163 - mineflayer - INFO - position: null
+2023-05-26 20:38:43,163 - mineflayer - INFO - }
+2023-05-26 20:39:10,792 - mineflayer - INFO - Stopping subprocess.

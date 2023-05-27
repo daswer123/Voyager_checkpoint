@@ -1,0 +1,3 @@
+async function cookPorkchops(bot) {
+    // The function is about cooking 3 porkchops using a furnace. It checks if there is a crafting table and a furnace nearby, and if not, it mines wood and cobblestone to craft and place them. It then checks if there are enough raw porkchops and fuel in the inventory, and if not, it kills pigs or mines coal/wood to collect them. Finally, it smelts the raw porkchops in the furnace using the fuel.
+}

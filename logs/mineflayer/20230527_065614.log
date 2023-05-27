@@ -1,0 +1,228 @@
+2023-05-27 06:56:14,770 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 06:57:49,468 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 06:57:49,866 - mineflayer - INFO - Server started on port 3000
+2023-05-27 06:57:49,866 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 06:57:49,899 - mineflayer - INFO - {
+2023-05-27 06:57:49,899 - mineflayer - INFO - port: 2604,
+2023-05-27 06:57:49,899 - mineflayer - INFO - reset: 'soft',
+2023-05-27 06:57:49,899 - mineflayer - INFO - inventory: {},
+2023-05-27 06:57:49,899 - mineflayer - INFO - equipment: [],
+2023-05-27 06:57:49,899 - mineflayer - INFO - spread: false,
+2023-05-27 06:57:49,903 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 06:57:49,903 - mineflayer - INFO - position: null
+2023-05-27 06:57:49,903 - mineflayer - INFO - }
+2023-05-27 07:04:35,121 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 07:04:36,155 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 07:04:36,513 - mineflayer - INFO - Server started on port 3000
+2023-05-27 07:04:36,513 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 07:04:36,526 - mineflayer - INFO - {
+2023-05-27 07:04:36,526 - mineflayer - INFO - port: 2604,
+2023-05-27 07:04:36,526 - mineflayer - INFO - reset: 'soft',
+2023-05-27 07:04:36,526 - mineflayer - INFO - inventory: {},
+2023-05-27 07:04:36,526 - mineflayer - INFO - equipment: [],
+2023-05-27 07:04:36,526 - mineflayer - INFO - spread: false,
+2023-05-27 07:04:36,526 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 07:04:36,526 - mineflayer - INFO - position: null
+2023-05-27 07:04:36,526 - mineflayer - INFO - }
+2023-05-27 07:06:06,431 - mineflayer - INFO - Error: beef is not a valid input
+2023-05-27 07:06:06,431 - mineflayer - INFO - at smeltItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1659:19)
+2023-05-27 07:06:06,431 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 07:06:06,431 - mineflayer - INFO - at async cookTwoBeef (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1927:3)
+2023-05-27 07:06:06,431 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1930:1)
+2023-05-27 07:06:06,431 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 07:06:06,431 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 07:06:06,431 - mineflayer - INFO - In your program code: throw new Error(`${itemName} is not a valid input`);
+2023-05-27 07:06:06,431 - mineflayer - INFO - beef is not a valid input
+2023-05-27 07:06:06,431 - mineflayer - INFO - at line 22:await smeltItem(bot, "beef", "coal", 2); in your code
+2023-05-27 07:07:01,123 - mineflayer - INFO - Error: No item named raw_beef
+2023-05-27 07:07:01,123 - mineflayer - INFO - at smeltItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1622:15)
+2023-05-27 07:07:01,123 - mineflayer - INFO - at cookTwoBeef (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1927:9)
+2023-05-27 07:07:01,123 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 07:07:01,123 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1930:1)
+2023-05-27 07:07:01,123 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 07:07:01,123 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 07:07:01,123 - mineflayer - INFO - In your program code: throw new Error(`No item named ${itemName}`);
+2023-05-27 07:07:01,123 - mineflayer - INFO - No item named raw_beef
+2023-05-27 07:07:01,123 - mineflayer - INFO - at line 22:await smeltItem(bot, "raw_beef", "coal", 2); in your code
+2023-05-27 07:10:39,085 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 07:10:40,122 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 07:10:40,493 - mineflayer - INFO - Server started on port 3000
+2023-05-27 07:10:40,493 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 07:10:40,525 - mineflayer - INFO - {
+2023-05-27 07:10:40,525 - mineflayer - INFO - port: 2604,
+2023-05-27 07:10:40,525 - mineflayer - INFO - reset: 'soft',
+2023-05-27 07:10:40,525 - mineflayer - INFO - inventory: {},
+2023-05-27 07:10:40,525 - mineflayer - INFO - equipment: [],
+2023-05-27 07:10:40,525 - mineflayer - INFO - spread: false,
+2023-05-27 07:10:40,525 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 07:10:40,525 - mineflayer - INFO - position: null
+2023-05-27 07:10:40,525 - mineflayer - INFO - }
+2023-05-27 07:14:57,866 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 07:14:58,899 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 07:14:59,262 - mineflayer - INFO - Server started on port 3000
+2023-05-27 07:14:59,263 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 07:14:59,287 - mineflayer - INFO - {
+2023-05-27 07:14:59,288 - mineflayer - INFO - port: 2604,
+2023-05-27 07:14:59,288 - mineflayer - INFO - reset: 'soft',
+2023-05-27 07:14:59,288 - mineflayer - INFO - inventory: {},
+2023-05-27 07:14:59,288 - mineflayer - INFO - equipment: [],
+2023-05-27 07:14:59,288 - mineflayer - INFO - spread: false,
+2023-05-27 07:14:59,288 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 07:14:59,288 - mineflayer - INFO - position: null
+2023-05-27 07:14:59,288 - mineflayer - INFO - }
+2023-05-27 07:16:16,067 - mineflayer - INFO - Error: No chest at (1009.5, 71, 898.4358477818546), it is chest
+2023-05-27 07:16:16,067 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1810:15)
+2023-05-27 07:16:16,067 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1759:11)
+2023-05-27 07:16:16,067 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1964:9)
+2023-05-27 07:16:16,067 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 07:16:16,067 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1970:1)
+2023-05-27 07:16:16,067 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 07:16:16,067 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 07:16:16,067 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 07:16:16,067 - mineflayer - INFO - No chest at (1009.5, 71, 898.4358477818546), it is chest
+2023-05-27 07:16:16,067 - mineflayer - INFO - at line 17:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 07:17:48,832 - mineflayer - INFO - Error: position for placeItem must be a Vec3
+2023-05-27 07:17:48,832 - mineflayer - INFO - at placeItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1542:15)
+2023-05-27 07:17:48,832 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1969:9)
+2023-05-27 07:17:48,832 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1985:7)
+2023-05-27 07:17:48,832 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1985:34)
+2023-05-27 07:17:48,832 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 07:17:48,832 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 07:17:48,833 - mineflayer - INFO - In your program code: throw new Error(`position for placeItem must be a Vec3`);
+2023-05-27 07:17:48,833 - mineflayer - INFO - position for placeItem must be a Vec3
+2023-05-27 07:17:48,833 - mineflayer - INFO - at line 22:await placeItem(bot, "chest", chestPosition); in your code
+2023-05-27 07:29:47,068 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 07:29:48,103 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 07:29:48,477 - mineflayer - INFO - Server started on port 3000
+2023-05-27 07:29:48,477 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 07:29:48,489 - mineflayer - INFO - {
+2023-05-27 07:29:48,489 - mineflayer - INFO - port: 2604,
+2023-05-27 07:29:48,489 - mineflayer - INFO - reset: 'hard',
+2023-05-27 07:29:48,489 - mineflayer - INFO - inventory: {
+2023-05-27 07:29:48,489 - mineflayer - INFO - arrow: 2,
+2023-05-27 07:29:48,489 - mineflayer - INFO - oak_planks: 2,
+2023-05-27 07:29:48,489 - mineflayer - INFO - rotten_flesh: 1,
+2023-05-27 07:29:48,489 - mineflayer - INFO - raw_iron: 2,
+2023-05-27 07:29:48,490 - mineflayer - INFO - raw_copper: 9,
+2023-05-27 07:29:48,490 - mineflayer - INFO - dripstone_block: 5,
+2023-05-27 07:29:48,490 - mineflayer - INFO - raw_gold: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - calcite: 4,
+2023-05-27 07:29:48,490 - mineflayer - INFO - tuff: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - smooth_basalt: 2,
+2023-05-27 07:29:48,490 - mineflayer - INFO - pointed_dripstone: 10,
+2023-05-27 07:29:48,490 - mineflayer - INFO - cobbled_deepslate: 46,
+2023-05-27 07:29:48,490 - mineflayer - INFO - spruce_sapling: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - granite: 33,
+2023-05-27 07:29:48,490 - mineflayer - INFO - cobblestone: 226,
+2023-05-27 07:29:48,490 - mineflayer - INFO - bone: 2,
+2023-05-27 07:29:48,490 - mineflayer - INFO - andesite: 3,
+2023-05-27 07:29:48,490 - mineflayer - INFO - shield: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - redstone: 49,
+2023-05-27 07:29:48,490 - mineflayer - INFO - lapis_lazuli: 8,
+2023-05-27 07:29:48,490 - mineflayer - INFO - stick: 3,
+2023-05-27 07:29:48,490 - mineflayer - INFO - cooked_beef: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - oak_sapling: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - chest: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - furnace: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - paper: 3,
+2023-05-27 07:29:48,490 - mineflayer - INFO - spider_eye: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - crafting_table: 2,
+2023-05-27 07:29:48,490 - mineflayer - INFO - diorite: 16,
+2023-05-27 07:29:48,490 - mineflayer - INFO - iron_pickaxe: 1,
+2023-05-27 07:29:48,490 - mineflayer - INFO - amethyst_block: 4
+2023-05-27 07:29:48,490 - mineflayer - INFO - },
+2023-05-27 07:29:48,490 - mineflayer - INFO - equipment: [ null, null, null, null, 'chest', null ],
+2023-05-27 07:29:48,490 - mineflayer - INFO - spread: false,
+2023-05-27 07:29:48,490 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 07:29:48,490 - mineflayer - INFO - position: { x: 1008.5, y: 71, z: 898.4358477818546 }
+2023-05-27 07:29:48,490 - mineflayer - INFO - }
+2023-05-27 07:30:25,073 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 07:30:26,105 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 07:30:26,471 - mineflayer - INFO - Server started on port 3000
+2023-05-27 07:30:26,471 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 07:30:26,493 - mineflayer - INFO - {
+2023-05-27 07:30:26,493 - mineflayer - INFO - port: 2604,
+2023-05-27 07:30:26,493 - mineflayer - INFO - reset: 'soft',
+2023-05-27 07:30:26,493 - mineflayer - INFO - inventory: {},
+2023-05-27 07:30:26,493 - mineflayer - INFO - equipment: [],
+2023-05-27 07:30:26,493 - mineflayer - INFO - spread: false,
+2023-05-27 07:30:26,493 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 07:30:26,493 - mineflayer - INFO - position: null
+2023-05-27 07:30:26,493 - mineflayer - INFO - }
+2023-05-27 07:31:27,029 - mineflayer - INFO - Error: No chest at (1009.5, 72, 896.5), it is chest
+2023-05-27 07:31:27,029 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1810:15)
+2023-05-27 07:31:27,029 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1759:11)
+2023-05-27 07:31:27,029 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1964:9)
+2023-05-27 07:31:27,030 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 07:31:27,030 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1970:1)
+2023-05-27 07:31:27,030 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 07:31:27,030 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 07:31:27,030 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 07:31:27,030 - mineflayer - INFO - No chest at (1009.5, 72, 896.5), it is chest
+2023-05-27 07:31:27,030 - mineflayer - INFO - at line 17:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 07:32:51,927 - mineflayer - INFO - Error: No chest at (1008, 71, 898), it is air
+2023-05-27 07:32:51,927 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1810:15)
+2023-05-27 07:32:51,927 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1759:11)
+2023-05-27 07:32:51,927 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1981:9)
+2023-05-27 07:32:51,927 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1987:1)
+2023-05-27 07:32:51,927 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 07:32:51,927 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 07:32:51,927 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 07:32:51,927 - mineflayer - INFO - No chest at (1008, 71, 898), it is air
+2023-05-27 07:32:51,928 - mineflayer - INFO - at line 34:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 07:34:14,908 - mineflayer - INFO - ReferenceError: findSolidBlock is not defined
+2023-05-27 07:34:14,908 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1961:22)
+2023-05-27 07:34:14,908 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1985:7)
+2023-05-27 07:34:14,908 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1985:34)
+2023-05-27 07:34:14,908 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 07:34:14,908 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 07:34:14,908 - mineflayer - INFO - Your code:14
+2023-05-27 07:34:14,908 - mineflayer - INFO - const solidBlock = await findSolidBlock(bot);
+2023-05-27 07:34:14,909 - mineflayer - INFO - findSolidBlock is not defined
+2023-05-27 07:34:14,909 - mineflayer - INFO - 
+2023-05-27 07:36:02,679 - mineflayer - INFO - Error: No chest at (1008, 70, 896), it is chest
+2023-05-27 07:36:02,680 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1810:15)
+2023-05-27 07:36:02,680 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1759:11)
+2023-05-27 07:36:02,680 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1991:9)
+2023-05-27 07:36:02,680 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 07:36:02,680 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1997:1)
+2023-05-27 07:36:02,680 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 07:36:02,680 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 07:36:02,680 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 07:36:02,680 - mineflayer - INFO - No chest at (1008, 70, 896), it is chest
+2023-05-27 07:36:02,680 - mineflayer - INFO - at line 44:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 07:36:07,881 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 07:36:08,914 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 07:36:09,274 - mineflayer - INFO - Server started on port 3000
+2023-05-27 07:36:09,274 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 07:36:09,296 - mineflayer - INFO - {
+2023-05-27 07:36:09,296 - mineflayer - INFO - port: 2604,
+2023-05-27 07:36:09,297 - mineflayer - INFO - reset: 'soft',
+2023-05-27 07:36:09,297 - mineflayer - INFO - inventory: {},
+2023-05-27 07:36:09,297 - mineflayer - INFO - equipment: [],
+2023-05-27 07:36:09,297 - mineflayer - INFO - spread: false,
+2023-05-27 07:36:09,297 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 07:36:09,297 - mineflayer - INFO - position: null
+2023-05-27 07:36:09,297 - mineflayer - INFO - }
+2023-05-27 07:37:48,265 - mineflayer - INFO - Error: No chest at (1009.5, 70, 895.6467126509161), it is chest
+2023-05-27 07:37:48,265 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1810:15)
+2023-05-27 07:37:48,265 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1759:11)
+2023-05-27 07:37:48,265 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1964:9)
+2023-05-27 07:37:48,265 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 07:37:48,265 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1974:1)
+2023-05-27 07:37:48,265 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 07:37:48,265 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 07:37:48,265 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 07:37:48,265 - mineflayer - INFO - No chest at (1009.5, 70, 895.6467126509161), it is chest
+2023-05-27 07:37:48,265 - mineflayer - INFO - at line 17:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 07:39:05,125 - mineflayer - INFO - Error: No chest at (1009.5, 70, 895.6467126509161), it is chest
+2023-05-27 07:39:05,125 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1810:15)
+2023-05-27 07:39:05,125 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1759:11)
+2023-05-27 07:39:05,125 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1976:9)
+2023-05-27 07:39:05,125 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1986:1)
+2023-05-27 07:39:05,125 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 07:39:05,125 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 07:39:05,125 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 07:39:05,125 - mineflayer - INFO - No chest at (1009.5, 70, 895.6467126509161), it is chest
+2023-05-27 07:39:05,125 - mineflayer - INFO - at line 29:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 07:39:51,642 - mineflayer - INFO - Stopping subprocess.

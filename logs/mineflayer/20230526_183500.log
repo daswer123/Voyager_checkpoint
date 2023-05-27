@@ -1,0 +1,13 @@
+2023-05-26 18:35:00,264 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 18:35:01,278 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 18:35:01,622 - mineflayer - INFO - Server started on port 3000
+2023-05-26 18:35:01,622 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 18:35:01,648 - mineflayer - INFO - {
+2023-05-26 18:35:01,648 - mineflayer - INFO - port: 13600,
+2023-05-26 18:35:01,648 - mineflayer - INFO - reset: 'hard',
+2023-05-26 18:35:01,648 - mineflayer - INFO - inventory: {},
+2023-05-26 18:35:01,648 - mineflayer - INFO - equipment: [],
+2023-05-26 18:35:01,648 - mineflayer - INFO - spread: false,
+2023-05-26 18:35:01,652 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 18:35:01,652 - mineflayer - INFO - position: null
+2023-05-26 18:35:01,652 - mineflayer - INFO - }

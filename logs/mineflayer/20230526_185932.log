@@ -1,0 +1,60 @@
+2023-05-26 18:59:32,492 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 18:59:33,504 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 18:59:33,856 - mineflayer - INFO - Server started on port 3000
+2023-05-26 18:59:33,857 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 18:59:33,889 - mineflayer - INFO - {
+2023-05-26 18:59:33,889 - mineflayer - INFO - port: 14213,
+2023-05-26 18:59:33,889 - mineflayer - INFO - reset: 'hard',
+2023-05-26 18:59:33,890 - mineflayer - INFO - inventory: {},
+2023-05-26 18:59:33,890 - mineflayer - INFO - equipment: [],
+2023-05-26 18:59:33,890 - mineflayer - INFO - spread: false,
+2023-05-26 18:59:33,894 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 18:59:33,894 - mineflayer - INFO - position: null
+2023-05-26 18:59:33,894 - mineflayer - INFO - }
+2023-05-26 18:59:34,034 - mineflayer - INFO - AggregateError
+2023-05-26 18:59:34,035 - mineflayer - INFO - at internalConnectMultiple (node:net:1103:18)
+2023-05-26 18:59:34,035 - mineflayer - INFO - at afterConnectMultiple (node:net:1616:5) {
+2023-05-26 18:59:34,035 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:59:34,035 - mineflayer - INFO - [errors]: [
+2023-05-26 18:59:34,035 - mineflayer - INFO - Error: connect ECONNREFUSED ::1:14213
+2023-05-26 18:59:34,035 - mineflayer - INFO - at afterConnectMultiple (node:net:1603:16) {
+2023-05-26 18:59:34,035 - mineflayer - INFO - errno: -4078,
+2023-05-26 18:59:34,035 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:59:34,035 - mineflayer - INFO - syscall: 'connect',
+2023-05-26 18:59:34,035 - mineflayer - INFO - address: '::1',
+2023-05-26 18:59:34,035 - mineflayer - INFO - port: 14213
+2023-05-26 18:59:34,035 - mineflayer - INFO - },
+2023-05-26 18:59:34,035 - mineflayer - INFO - Error: connect ECONNREFUSED 127.0.0.1:14213
+2023-05-26 18:59:34,035 - mineflayer - INFO - at afterConnectMultiple (node:net:1603:16) {
+2023-05-26 18:59:34,035 - mineflayer - INFO - errno: -4078,
+2023-05-26 18:59:34,035 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:59:34,035 - mineflayer - INFO - syscall: 'connect',
+2023-05-26 18:59:34,035 - mineflayer - INFO - address: '127.0.0.1',
+2023-05-26 18:59:34,035 - mineflayer - INFO - port: 14213
+2023-05-26 18:59:34,035 - mineflayer - INFO - }
+2023-05-26 18:59:34,035 - mineflayer - INFO - ]
+2023-05-26 18:59:34,035 - mineflayer - INFO - }
+2023-05-26 18:59:34,035 - mineflayer - INFO - AggregateError
+2023-05-26 18:59:34,035 - mineflayer - INFO - at internalConnectMultiple (node:net:1103:18)
+2023-05-26 18:59:34,035 - mineflayer - INFO - at afterConnectMultiple (node:net:1616:5) {
+2023-05-26 18:59:34,035 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:59:34,035 - mineflayer - INFO - [errors]: [
+2023-05-26 18:59:34,035 - mineflayer - INFO - Error: connect ECONNREFUSED ::1:14213
+2023-05-26 18:59:34,035 - mineflayer - INFO - at afterConnectMultiple (node:net:1603:16) {
+2023-05-26 18:59:34,035 - mineflayer - INFO - errno: -4078,
+2023-05-26 18:59:34,035 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:59:34,035 - mineflayer - INFO - syscall: 'connect',
+2023-05-26 18:59:34,035 - mineflayer - INFO - address: '::1',
+2023-05-26 18:59:34,035 - mineflayer - INFO - port: 14213
+2023-05-26 18:59:34,035 - mineflayer - INFO - },
+2023-05-26 18:59:34,035 - mineflayer - INFO - Error: connect ECONNREFUSED 127.0.0.1:14213
+2023-05-26 18:59:34,035 - mineflayer - INFO - at afterConnectMultiple (node:net:1603:16) {
+2023-05-26 18:59:34,035 - mineflayer - INFO - errno: -4078,
+2023-05-26 18:59:34,036 - mineflayer - INFO - code: 'ECONNREFUSED',
+2023-05-26 18:59:34,036 - mineflayer - INFO - syscall: 'connect',
+2023-05-26 18:59:34,036 - mineflayer - INFO - address: '127.0.0.1',
+2023-05-26 18:59:34,036 - mineflayer - INFO - port: 14213
+2023-05-26 18:59:34,036 - mineflayer - INFO - }
+2023-05-26 18:59:34,036 - mineflayer - INFO - ]
+2023-05-26 18:59:34,036 - mineflayer - INFO - }
+2023-05-26 18:59:34,037 - mineflayer - INFO - Stopping subprocess.

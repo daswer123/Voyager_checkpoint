@@ -1,0 +1,3 @@
+async function craftDiamondPickaxe(bot) {
+    // The function is about crafting a diamond pickaxe. It first equips an iron pickaxe from the inventory, then finds and mines 1 diamond ore to get 1 more diamond. If needed, it crafts 1 more stick using the spruce planks in the inventory. It then checks if there is a crafting table nearby or in the inventory, and places it if needed. Finally, it crafts a diamond pickaxe using 3 diamonds and 2 sticks.
+}

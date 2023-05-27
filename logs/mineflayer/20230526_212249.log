@@ -1,0 +1,1754 @@
+2023-05-26 21:22:49,727 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:24:02,406 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:24:02,814 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:24:02,815 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:24:02,827 - mineflayer - INFO - {
+2023-05-26 21:24:02,828 - mineflayer - INFO - port: 4090,
+2023-05-26 21:24:02,828 - mineflayer - INFO - reset: 'hard',
+2023-05-26 21:24:02,828 - mineflayer - INFO - inventory: {},
+2023-05-26 21:24:02,828 - mineflayer - INFO - equipment: [],
+2023-05-26 21:24:02,828 - mineflayer - INFO - spread: false,
+2023-05-26 21:24:02,831 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:24:02,832 - mineflayer - INFO - position: null
+2023-05-26 21:24:02,832 - mineflayer - INFO - }
+2023-05-26 21:24:11,648 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:24:12,676 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:24:13,040 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:24:13,040 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:24:13,054 - mineflayer - INFO - {
+2023-05-26 21:24:13,054 - mineflayer - INFO - port: 4090,
+2023-05-26 21:24:13,054 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:24:13,054 - mineflayer - INFO - inventory: {},
+2023-05-26 21:24:13,054 - mineflayer - INFO - equipment: [],
+2023-05-26 21:24:13,054 - mineflayer - INFO - spread: false,
+2023-05-26 21:24:13,054 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:24:13,054 - mineflayer - INFO - position: null
+2023-05-26 21:24:13,054 - mineflayer - INFO - }
+2023-05-26 21:26:13,998 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:26:15,029 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:26:15,403 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:26:15,403 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:26:15,415 - mineflayer - INFO - {
+2023-05-26 21:26:15,415 - mineflayer - INFO - port: 4090,
+2023-05-26 21:26:15,415 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:26:15,415 - mineflayer - INFO - inventory: {},
+2023-05-26 21:26:15,415 - mineflayer - INFO - equipment: [],
+2023-05-26 21:26:15,415 - mineflayer - INFO - spread: false,
+2023-05-26 21:26:15,415 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:26:15,415 - mineflayer - INFO - position: null
+2023-05-26 21:26:15,415 - mineflayer - INFO - }
+2023-05-26 21:28:29,410 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:28:30,438 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:28:30,821 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:28:30,821 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:28:30,855 - mineflayer - INFO - {
+2023-05-26 21:28:30,855 - mineflayer - INFO - port: 4090,
+2023-05-26 21:28:30,855 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:28:30,855 - mineflayer - INFO - inventory: {},
+2023-05-26 21:28:30,855 - mineflayer - INFO - equipment: [],
+2023-05-26 21:28:30,855 - mineflayer - INFO - spread: false,
+2023-05-26 21:28:30,855 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:28:30,855 - mineflayer - INFO - position: null
+2023-05-26 21:28:30,855 - mineflayer - INFO - }
+2023-05-26 21:30:20,366 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:30:21,462 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:30:21,892 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:30:21,892 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:30:21,907 - mineflayer - INFO - {
+2023-05-26 21:30:21,907 - mineflayer - INFO - port: 4090,
+2023-05-26 21:30:21,907 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:30:21,907 - mineflayer - INFO - inventory: {},
+2023-05-26 21:30:21,907 - mineflayer - INFO - equipment: [],
+2023-05-26 21:30:21,907 - mineflayer - INFO - spread: false,
+2023-05-26 21:30:21,907 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:30:21,907 - mineflayer - INFO - position: null
+2023-05-26 21:30:21,907 - mineflayer - INFO - }
+2023-05-26 21:34:00,110 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:34:01,156 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:34:01,977 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:34:01,978 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:34:01,998 - mineflayer - INFO - {
+2023-05-26 21:34:01,999 - mineflayer - INFO - port: 4090,
+2023-05-26 21:34:01,999 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:34:01,999 - mineflayer - INFO - inventory: {},
+2023-05-26 21:34:01,999 - mineflayer - INFO - equipment: [],
+2023-05-26 21:34:01,999 - mineflayer - INFO - spread: false,
+2023-05-26 21:34:01,999 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:34:01,999 - mineflayer - INFO - position: null
+2023-05-26 21:34:01,999 - mineflayer - INFO - }
+2023-05-26 21:36:10,960 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:36:11,992 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:36:12,386 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:36:12,386 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:36:12,422 - mineflayer - INFO - {
+2023-05-26 21:36:12,422 - mineflayer - INFO - port: 4090,
+2023-05-26 21:36:12,422 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:36:12,422 - mineflayer - INFO - inventory: {},
+2023-05-26 21:36:12,422 - mineflayer - INFO - equipment: [],
+2023-05-26 21:36:12,422 - mineflayer - INFO - spread: false,
+2023-05-26 21:36:12,422 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:36:12,422 - mineflayer - INFO - position: null
+2023-05-26 21:36:12,422 - mineflayer - INFO - }
+2023-05-26 21:37:28,961 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 21:37:28,961 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:114:15)
+2023-05-26 21:37:28,961 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:208:9)
+2023-05-26 21:37:28,961 - mineflayer - INFO - at craftStonePickaxe (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:867:9)
+2023-05-26 21:37:28,961 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:870:7)
+2023-05-26 21:37:28,961 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:870:32)
+2023-05-26 21:37:28,961 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:37:28,961 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:37:28,961 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 21:37:28,961 - mineflayer - INFO - No crafting table nearby
+2023-05-26 21:37:28,961 - mineflayer - INFO - at line 15:await craftItem(bot, "stone_pickaxe", 1); in your code
+2023-05-26 21:38:39,615 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 21:38:39,615 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:114:15)
+2023-05-26 21:38:39,615 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:208:9)
+2023-05-26 21:38:39,616 - mineflayer - INFO - at craftStonePickaxe (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:867:9)
+2023-05-26 21:38:39,616 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:870:7)
+2023-05-26 21:38:39,616 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:870:32)
+2023-05-26 21:38:39,616 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:38:39,616 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:38:39,616 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 21:38:39,616 - mineflayer - INFO - No crafting table nearby
+2023-05-26 21:38:39,616 - mineflayer - INFO - at line 15:await craftItem(bot, "stone_pickaxe", 1); in your code
+2023-05-26 21:40:47,554 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:40:48,603 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:40:49,483 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:40:49,483 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:40:49,510 - mineflayer - INFO - {
+2023-05-26 21:40:49,510 - mineflayer - INFO - port: 4090,
+2023-05-26 21:40:49,510 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:40:49,510 - mineflayer - INFO - inventory: {},
+2023-05-26 21:40:49,511 - mineflayer - INFO - equipment: [],
+2023-05-26 21:40:49,511 - mineflayer - INFO - spread: false,
+2023-05-26 21:40:49,511 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:40:49,511 - mineflayer - INFO - position: null
+2023-05-26 21:40:49,511 - mineflayer - INFO - }
+2023-05-26 21:43:48,211 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:43:49,244 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:43:49,614 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:43:49,614 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:43:49,643 - mineflayer - INFO - {
+2023-05-26 21:43:49,643 - mineflayer - INFO - port: 4090,
+2023-05-26 21:43:49,643 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:43:49,643 - mineflayer - INFO - inventory: {},
+2023-05-26 21:43:49,643 - mineflayer - INFO - equipment: [],
+2023-05-26 21:43:49,643 - mineflayer - INFO - spread: false,
+2023-05-26 21:43:49,643 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:43:49,643 - mineflayer - INFO - position: null
+2023-05-26 21:43:49,643 - mineflayer - INFO - }
+2023-05-26 21:45:00,773 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 21:45:00,773 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:162:15)
+2023-05-26 21:45:00,773 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:256:9)
+2023-05-26 21:45:00,773 - mineflayer - INFO - at smeltIronOre (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:910:11)
+2023-05-26 21:45:00,773 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:921:7)
+2023-05-26 21:45:00,773 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:921:27)
+2023-05-26 21:45:00,773 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:45:00,773 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:45:00,773 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 21:45:00,773 - mineflayer - INFO - No crafting table nearby
+2023-05-26 21:45:00,773 - mineflayer - INFO - at line 10:await craftItem(bot, "furnace", 1); in your code
+2023-05-26 21:46:23,381 - mineflayer - INFO - TypeError: Cannot read properties of undefined (reading '259')
+2023-05-26 21:46:23,381 - mineflayer - INFO - at smeltIronOre (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:912:45)
+2023-05-26 21:46:23,381 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:927:7)
+2023-05-26 21:46:23,381 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:927:27)
+2023-05-26 21:46:23,381 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:46:23,381 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:46:23,381 - mineflayer - INFO - Your code:12
+2023-05-26 21:46:23,381 - mineflayer - INFO - await bot.craft(mcData.recipesByItemId[mcData.itemsByName.furnace.id][0], 1);
+2023-05-26 21:46:23,381 - mineflayer - INFO - Cannot read properties of undefined (reading '259')
+2023-05-26 21:46:23,381 - mineflayer - INFO - 
+2023-05-26 21:47:46,520 - mineflayer - INFO - AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+2023-05-26 21:47:46,520 - mineflayer - INFO - 
+2023-05-26 21:47:46,520 - mineflayer - INFO - assert.ok(recipe)
+2023-05-26 21:47:46,520 - mineflayer - INFO - 
+2023-05-26 21:47:46,520 - mineflayer - INFO - at EventEmitter.craft (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\craft.js:12:12)
+2023-05-26 21:47:46,520 - mineflayer - INFO - at smeltIronOre (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:913:17)
+2023-05-26 21:47:46,520 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:928:7)
+2023-05-26 21:47:46,520 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:928:27)
+2023-05-26 21:47:46,520 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:47:46,520 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:47:46,520 - mineflayer - INFO - The expression evaluated to a falsy value:
+2023-05-26 21:47:46,520 - mineflayer - INFO - 
+2023-05-26 21:47:46,520 - mineflayer - INFO - assert.ok(recipe)
+2023-05-26 21:47:46,520 - mineflayer - INFO - 
+2023-05-26 21:49:58,612 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:49:59,658 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:50:00,044 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:50:00,045 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:50:00,073 - mineflayer - INFO - {
+2023-05-26 21:50:00,073 - mineflayer - INFO - port: 4090,
+2023-05-26 21:50:00,073 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:50:00,073 - mineflayer - INFO - inventory: {},
+2023-05-26 21:50:00,073 - mineflayer - INFO - equipment: [],
+2023-05-26 21:50:00,073 - mineflayer - INFO - spread: false,
+2023-05-26 21:50:00,073 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:50:00,073 - mineflayer - INFO - position: null
+2023-05-26 21:50:00,073 - mineflayer - INFO - }
+2023-05-26 21:52:37,146 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:52:38,208 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:52:38,577 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:52:38,578 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:52:38,604 - mineflayer - INFO - {
+2023-05-26 21:52:38,605 - mineflayer - INFO - port: 4090,
+2023-05-26 21:52:38,605 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:52:38,605 - mineflayer - INFO - inventory: {},
+2023-05-26 21:52:38,605 - mineflayer - INFO - equipment: [],
+2023-05-26 21:52:38,605 - mineflayer - INFO - spread: false,
+2023-05-26 21:52:38,605 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:52:38,605 - mineflayer - INFO - position: null
+2023-05-26 21:52:38,605 - mineflayer - INFO - }
+2023-05-26 21:54:41,673 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 21:54:42,730 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 21:54:43,100 - mineflayer - INFO - Server started on port 3000
+2023-05-26 21:54:43,100 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 21:54:43,127 - mineflayer - INFO - {
+2023-05-26 21:54:43,127 - mineflayer - INFO - port: 4090,
+2023-05-26 21:54:43,127 - mineflayer - INFO - reset: 'soft',
+2023-05-26 21:54:43,127 - mineflayer - INFO - inventory: {},
+2023-05-26 21:54:43,127 - mineflayer - INFO - equipment: [],
+2023-05-26 21:54:43,127 - mineflayer - INFO - spread: false,
+2023-05-26 21:54:43,127 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 21:54:43,127 - mineflayer - INFO - position: null
+2023-05-26 21:54:43,127 - mineflayer - INFO - }
+2023-05-26 21:55:41,736 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 21:55:41,736 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:205:15)
+2023-05-26 21:55:41,736 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:299:9)
+2023-05-26 21:55:41,736 - mineflayer - INFO - at craftIronPickaxe (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:958:9)
+2023-05-26 21:55:41,736 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:961:7)
+2023-05-26 21:55:41,736 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:961:31)
+2023-05-26 21:55:41,736 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 21:55:41,736 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 21:55:41,737 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 21:55:41,737 - mineflayer - INFO - No crafting table nearby
+2023-05-26 21:55:41,737 - mineflayer - INFO - at line 15:await craftItem(bot, "iron_pickaxe", 1); in your code
+2023-05-26 21:59:55,183 - mineflayer - INFO - Error: No furnace nearby
+2023-05-26 21:59:55,183 - mineflayer - INFO - at smeltItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:670:15)
+2023-05-26 21:59:55,183 - mineflayer - INFO - at craftIronPickaxe (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:950:11)
+2023-05-26 21:59:55,183 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:975:1)
+2023-05-26 21:59:55,184 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 21:59:55,184 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 21:59:55,184 - mineflayer - INFO - In your program code: throw new Error("No furnace nearby");
+2023-05-26 21:59:55,184 - mineflayer - INFO - No furnace nearby
+2023-05-26 21:59:55,184 - mineflayer - INFO - at line 7:await smeltItem(bot, "raw_iron", "coal", 3 - (ironIngots ? ironIngots.count : 0)); in your code
+2023-05-26 22:04:14,390 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:04:15,450 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:04:15,818 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:04:15,818 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:04:15,851 - mineflayer - INFO - {
+2023-05-26 22:04:15,851 - mineflayer - INFO - port: 4090,
+2023-05-26 22:04:15,851 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:04:15,851 - mineflayer - INFO - inventory: {},
+2023-05-26 22:04:15,851 - mineflayer - INFO - equipment: [],
+2023-05-26 22:04:15,851 - mineflayer - INFO - spread: false,
+2023-05-26 22:04:15,851 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:04:15,851 - mineflayer - INFO - position: null
+2023-05-26 22:04:15,851 - mineflayer - INFO - }
+2023-05-26 22:09:17,728 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:09:17,728 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:09:17,728 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:09:17,728 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:09:17,728 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:09:17,728 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:09:17,728 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:09:17,728 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:09:17,729 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:09:17,729 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:09:17,729 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:09:47,852 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:09:47,852 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:09:47,852 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:09:47,852 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:09:47,852 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:09:47,852 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:09:47,852 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:09:47,853 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:09:47,853 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:09:47,853 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:09:47,853 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:10:54,024 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:10:54,024 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:10:54,024 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:10:54,024 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:10:54,024 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:10:54,024 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:10:54,024 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:10:54,024 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:10:54,024 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:10:54,024 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:10:54,024 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:11:06,463 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:11:06,463 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:11:06,463 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:11:06,463 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:11:06,463 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:11:06,463 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:11:06,463 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:11:06,463 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:11:06,463 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:11:06,463 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:11:06,463 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:11:37,179 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:11:37,179 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:11:37,179 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:11:37,179 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:11:37,179 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:11:37,179 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:11:37,179 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:11:37,179 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:11:37,179 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:11:37,179 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:11:37,179 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:12:42,986 - mineflayer - INFO - No path to lapis_ore at (-71, 49, 12)! Skip it!
+2023-05-26 22:12:48,118 - mineflayer - INFO - No path to lapis_ore at (-63, 57, -4)! Skip it!
+2023-05-26 22:12:53,438 - mineflayer - INFO - No path to lapis_ore at (-62, 57, -5)! Skip it!
+2023-05-26 22:12:54,032 - mineflayer - INFO - Block lapis_ore at (-71, 50, 12) is not valid! Skip it!
+2023-05-26 22:12:54,084 - mineflayer - INFO - Block lapis_ore at (-62, 56, -5) is not valid! Skip it!
+2023-05-26 22:12:54,143 - mineflayer - INFO - Block lapis_ore at (-63, 56, -4) is not valid! Skip it!
+2023-05-26 22:12:54,203 - mineflayer - INFO - Block lapis_ore at (-54, 53, -17) is not valid! Skip it!
+2023-05-26 22:12:54,253 - mineflayer - INFO - Block lapis_ore at (-54, 53, -18) is not valid! Skip it!
+2023-05-26 22:12:54,301 - mineflayer - INFO - Block lapis_ore at (-53, 53, -17) is not valid! Skip it!
+2023-05-26 22:12:54,352 - mineflayer - INFO - Block lapis_ore at (-53, 53, -18) is not valid! Skip it!
+2023-05-26 22:12:54,401 - mineflayer - INFO - Block lapis_ore at (-76, 49, -7) is not valid! Skip it!
+2023-05-26 22:12:54,463 - mineflayer - INFO - Block lapis_ore at (-77, 50, -7) is not valid! Skip it!
+2023-05-26 22:12:54,513 - mineflayer - INFO - Block lapis_ore at (-76, 49, -6) is not valid! Skip it!
+2023-05-26 22:12:54,563 - mineflayer - INFO - Block lapis_ore at (-77, 50, -6) is not valid! Skip it!
+2023-05-26 22:12:54,618 - mineflayer - INFO - Block lapis_ore at (-71, 35, -20) is not valid! Skip it!
+2023-05-26 22:12:54,665 - mineflayer - INFO - Block lapis_ore at (-71, 34, -19) is not valid! Skip it!
+2023-05-26 22:12:54,727 - mineflayer - INFO - Block lapis_ore at (-71, 34, -20) is not valid! Skip it!
+2023-05-26 22:12:54,775 - mineflayer - INFO - Block lapis_ore at (-72, 34, -19) is not valid! Skip it!
+2023-05-26 22:12:54,826 - mineflayer - INFO - Block lapis_ore at (-72, 34, -20) is not valid! Skip it!
+2023-05-26 22:12:54,879 - mineflayer - INFO - Block lapis_ore at (-72, 33, -19) is not valid! Skip it!
+2023-05-26 22:12:54,936 - mineflayer - INFO - Block lapis_ore at (-56, 34, -1) is not valid! Skip it!
+2023-05-26 22:12:54,993 - mineflayer - INFO - Block lapis_ore at (-56, 33, -1) is not valid! Skip it!
+2023-05-26 22:12:55,073 - mineflayer - INFO - Block lapis_ore at (-55, 33, -1) is not valid! Skip it!
+2023-05-26 22:12:55,110 - mineflayer - INFO - Block lapis_ore at (-56, 33, 0) is not valid! Skip it!
+2023-05-26 22:12:55,160 - mineflayer - INFO - Block lapis_ore at (-55, 33, 0) is not valid! Skip it!
+2023-05-26 22:12:55,213 - mineflayer - INFO - Block lapis_ore at (-55, 32, 0) is not valid! Skip it!
+2023-05-26 22:12:55,263 - mineflayer - INFO - Block lapis_ore at (-66, 19, 1) is not valid! Skip it!
+2023-05-26 22:12:55,312 - mineflayer - INFO - Block lapis_ore at (-67, 19, 1) is not valid! Skip it!
+2023-05-26 22:12:55,378 - mineflayer - INFO - Block lapis_ore at (-66, 18, 2) is not valid! Skip it!
+2023-05-26 22:12:55,415 - mineflayer - INFO - Block lapis_ore at (-67, 18, 2) is not valid! Skip it!
+2023-05-26 22:12:55,463 - mineflayer - INFO - Block lapis_ore at (-62, 24, 14) is not valid! Skip it!
+2023-05-26 22:12:55,499 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:12:55,499 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:12:55,499 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:12:55,499 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:12:55,499 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:12:55,499 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:12:55,499 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:12:55,499 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:12:55,499 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:12:55,499 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:12:55,499 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:12:55,518 - mineflayer - INFO - Block lapis_ore at (-61, 24, 14) is not valid! Skip it!
+2023-05-26 22:12:55,567 - mineflayer - INFO - Block lapis_ore at (-61, 23, 14) is not valid! Skip it!
+2023-05-26 22:12:55,618 - mineflayer - INFO - Block lapis_ore at (-62, 24, 15) is not valid! Skip it!
+2023-05-26 22:12:55,670 - mineflayer - INFO - Block lapis_ore at (-61, 24, 15) is not valid! Skip it!
+2023-05-26 22:12:55,720 - mineflayer - INFO - Block lapis_ore at (-46, 29, 14) is not valid! Skip it!
+2023-05-26 22:12:55,782 - mineflayer - INFO - Block lapis_ore at (-46, 30, 14) is not valid! Skip it!
+2023-05-26 22:12:55,826 - mineflayer - INFO - Block lapis_ore at (-45, 29, 14) is not valid! Skip it!
+2023-05-26 22:12:55,878 - mineflayer - INFO - Block lapis_ore at (-45, 30, 14) is not valid! Skip it!
+2023-05-26 22:12:55,928 - mineflayer - INFO - Block lapis_ore at (-87, 26, 12) is not valid! Skip it!
+2023-05-26 22:12:55,979 - mineflayer - INFO - Block lapis_ore at (-87, 25, 13) is not valid! Skip it!
+2023-05-26 22:14:56,011 - mineflayer - INFO - Error: Invalid item object in equip (item is null or typeof item is not object)
+2023-05-26 22:14:56,011 - mineflayer - INFO - at EventEmitter.equip (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\simple_inventory.js:93:13)
+2023-05-26 22:14:56,011 - mineflayer - INFO - at mineOneLapisOreSafely (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1006:13)
+2023-05-26 22:14:56,011 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-26 22:14:56,011 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1038:1)
+2023-05-26 22:14:56,011 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 22:14:56,011 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 22:14:56,012 - mineflayer - INFO - E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\simple_inventory.js:93
+2023-05-26 22:14:56,012 - mineflayer - INFO - throw new Error('Invalid item object in equip (item is null or typeof item is not object)')
+2023-05-26 22:14:56,012 - mineflayer - INFO - Invalid item object in equip (item is null or typeof item is not object)
+2023-05-26 22:14:56,012 - mineflayer - INFO - at await bot.equip(food, "hand"); in your code
+2023-05-26 22:17:46,829 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:17:47,933 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:17:48,322 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:17:48,322 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:17:48,335 - mineflayer - INFO - {
+2023-05-26 22:17:48,335 - mineflayer - INFO - port: 4090,
+2023-05-26 22:17:48,335 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:17:48,335 - mineflayer - INFO - inventory: {},
+2023-05-26 22:17:48,335 - mineflayer - INFO - equipment: [],
+2023-05-26 22:17:48,335 - mineflayer - INFO - spread: false,
+2023-05-26 22:17:48,335 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:17:48,335 - mineflayer - INFO - position: null
+2023-05-26 22:17:48,335 - mineflayer - INFO - }
+2023-05-26 22:17:49,829 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:17:49,829 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:17:49,829 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:17:49,829 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:17:49,829 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:17:49,829 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:17:49,829 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:17:49,829 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:17:49,829 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:17:49,829 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:17:49,829 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:20:28,106 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:20:29,154 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:20:29,537 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:20:29,537 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:20:29,549 - mineflayer - INFO - {
+2023-05-26 22:20:29,549 - mineflayer - INFO - port: 4090,
+2023-05-26 22:20:29,549 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:20:29,549 - mineflayer - INFO - inventory: {},
+2023-05-26 22:20:29,549 - mineflayer - INFO - equipment: [],
+2023-05-26 22:20:29,549 - mineflayer - INFO - spread: false,
+2023-05-26 22:20:29,549 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:20:29,549 - mineflayer - INFO - position: null
+2023-05-26 22:20:29,549 - mineflayer - INFO - }
+2023-05-26 22:20:31,033 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:20:31,033 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:20:31,033 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:20:31,033 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:20:31,033 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:20:31,033 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:20:31,033 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:20:31,034 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:20:31,034 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:20:31,034 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:20:31,034 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:22:27,461 - mineflayer - INFO - No path to iron_ore at (-69, 43, 18)! Skip it!
+2023-05-26 22:22:37,896 - mineflayer - INFO - Error: No furnace nearby
+2023-05-26 22:22:37,897 - mineflayer - INFO - at smeltItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:790:15)
+2023-05-26 22:22:37,897 - mineflayer - INFO - at craftIronChestplate (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1072:11)
+2023-05-26 22:22:37,897 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-26 22:22:37,897 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1097:1)
+2023-05-26 22:22:37,897 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 22:22:37,897 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 22:22:37,898 - mineflayer - INFO - In your program code: throw new Error("No furnace nearby");
+2023-05-26 22:22:37,898 - mineflayer - INFO - No furnace nearby
+2023-05-26 22:22:37,898 - mineflayer - INFO - at line 9:await smeltItem(bot, "raw_iron", "coal", 8 - (ironIngots ? ironIngots.count : 0)); in your code
+2023-05-26 22:25:59,400 - mineflayer - INFO - No path to iron_ore at (-63, 38, 21)! Skip it!
+2023-05-26 22:26:06,814 - mineflayer - INFO - No path to iron_ore at (-63, 39, 22)! Skip it!
+2023-05-26 22:26:12,646 - mineflayer - INFO - Error: No furnace nearby
+2023-05-26 22:26:12,646 - mineflayer - INFO - at smeltItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:790:15)
+2023-05-26 22:26:12,646 - mineflayer - INFO - at craftIronChestplate (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1085:11)
+2023-05-26 22:26:12,646 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-26 22:26:12,646 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1105:1)
+2023-05-26 22:26:12,646 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 22:26:12,646 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 22:26:12,646 - mineflayer - INFO - In your program code: throw new Error("No furnace nearby");
+2023-05-26 22:26:12,646 - mineflayer - INFO - No furnace nearby
+2023-05-26 22:26:12,646 - mineflayer - INFO - at line 22:await smeltItem(bot, "raw_iron", "coal", 8 - (ironIngots ? ironIngots.count : 0)); in your code
+2023-05-26 22:28:34,360 - mineflayer - INFO - Block iron_ore at (-67, 33, 22) is not valid! Skip it!
+2023-05-26 22:30:49,945 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:30:50,981 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:30:51,358 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:30:51,358 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:30:51,394 - mineflayer - INFO - {
+2023-05-26 22:30:51,394 - mineflayer - INFO - port: 4090,
+2023-05-26 22:30:51,394 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:30:51,394 - mineflayer - INFO - inventory: {},
+2023-05-26 22:30:51,394 - mineflayer - INFO - equipment: [],
+2023-05-26 22:30:51,394 - mineflayer - INFO - spread: false,
+2023-05-26 22:30:51,394 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:30:51,394 - mineflayer - INFO - position: null
+2023-05-26 22:30:51,394 - mineflayer - INFO - }
+2023-05-26 22:30:52,804 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:30:52,804 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:30:52,804 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:30:52,804 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:30:52,804 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:30:52,804 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:30:52,804 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:30:52,804 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:30:52,804 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:30:52,804 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:30:52,804 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:33:08,639 - mineflayer - INFO - Error: Can't find coal in slots [3 - 39], (item id: 720)
+2023-05-26 22:33:08,639 - mineflayer - INFO - at transferOne (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\inventory.js:258:32)
+2023-05-26 22:33:08,639 - mineflayer - INFO - at EventEmitter.transfer (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\inventory.js:244:11)
+2023-05-26 22:33:08,639 - mineflayer - INFO - at putSomething (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\furnace.js:104:17)
+2023-05-26 22:33:08,639 - mineflayer - INFO - at Window.putFuel (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\furnace.js:112:13)
+2023-05-26 22:33:08,639 - mineflayer - INFO - at smeltItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:862:27)
+2023-05-26 22:33:08,639 - mineflayer - INFO - at async smeltFourteenRawIron (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1138:3)
+2023-05-26 22:33:08,639 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1141:1)
+2023-05-26 22:33:08,639 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 22:33:08,639 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 22:33:08,639 - mineflayer - INFO - E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\inventory.js:258
+2023-05-26 22:33:08,640 - mineflayer - INFO - if (!sourceItem) throw new Error(`Can't find ${mcDataEntry.name} in slots [${sourceStart} - ${sourceEnd}], (item id: ${itemType})`)
+2023-05-26 22:33:08,640 - mineflayer - INFO - Can't find coal in slots [3 - 39], (item id: 720)
+2023-05-26 22:33:08,640 - mineflayer - INFO - at await smeltItem(bot, "raw_iron", "coal", 14); in your code
+2023-05-26 22:37:06,204 - mineflayer - INFO - Error: No crafting table nearby
+2023-05-26 22:37:06,204 - mineflayer - INFO - at failedCraftFeedback (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:379:15)
+2023-05-26 22:37:06,204 - mineflayer - INFO - at craftItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:473:9)
+2023-05-26 22:37:06,204 - mineflayer - INFO - at smeltFourteenRawIron (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1134:11)
+2023-05-26 22:37:06,204 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1153:7)
+2023-05-26 22:37:06,204 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1153:35)
+2023-05-26 22:37:06,204 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 22:37:06,204 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 22:37:06,204 - mineflayer - INFO - In your program code: throw new Error(`No crafting table nearby`);
+2023-05-26 22:37:06,204 - mineflayer - INFO - No crafting table nearby
+2023-05-26 22:37:06,204 - mineflayer - INFO - at line 17:await craftItem(bot, "furnace", 1); in your code
+2023-05-26 22:38:49,183 - mineflayer - INFO - AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+2023-05-26 22:38:49,183 - mineflayer - INFO - 
+2023-05-26 22:38:49,183 - mineflayer - INFO - assert.ok(recipe)
+2023-05-26 22:38:49,183 - mineflayer - INFO - 
+2023-05-26 22:38:49,183 - mineflayer - INFO - at EventEmitter.craft (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\craft.js:12:12)
+2023-05-26 22:38:49,183 - mineflayer - INFO - at smeltFourteenRawIron (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1135:15)
+2023-05-26 22:38:49,183 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1154:7)
+2023-05-26 22:38:49,183 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1154:35)
+2023-05-26 22:38:49,183 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 22:38:49,184 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 22:38:49,184 - mineflayer - INFO - The expression evaluated to a falsy value:
+2023-05-26 22:38:49,184 - mineflayer - INFO - 
+2023-05-26 22:38:49,184 - mineflayer - INFO - assert.ok(recipe)
+2023-05-26 22:38:49,184 - mineflayer - INFO - 
+2023-05-26 22:39:06,815 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:39:07,855 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:39:08,232 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:39:08,232 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:39:08,267 - mineflayer - INFO - {
+2023-05-26 22:39:08,268 - mineflayer - INFO - port: 4090,
+2023-05-26 22:39:08,268 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:39:08,268 - mineflayer - INFO - inventory: {},
+2023-05-26 22:39:08,268 - mineflayer - INFO - equipment: [],
+2023-05-26 22:39:08,268 - mineflayer - INFO - spread: false,
+2023-05-26 22:39:08,268 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:39:08,268 - mineflayer - INFO - position: null
+2023-05-26 22:39:08,268 - mineflayer - INFO - }
+2023-05-26 22:39:09,681 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:39:09,681 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:39:09,681 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:39:09,681 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:39:09,681 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:39:09,681 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:39:09,681 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:39:09,681 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:39:09,681 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:39:09,681 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:39:09,681 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:40:31,934 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:40:32,982 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:40:33,373 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:40:33,373 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:40:33,410 - mineflayer - INFO - {
+2023-05-26 22:40:33,410 - mineflayer - INFO - port: 4090,
+2023-05-26 22:40:33,410 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:40:33,410 - mineflayer - INFO - inventory: {},
+2023-05-26 22:40:33,410 - mineflayer - INFO - equipment: [],
+2023-05-26 22:40:33,410 - mineflayer - INFO - spread: false,
+2023-05-26 22:40:33,410 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:40:33,410 - mineflayer - INFO - position: null
+2023-05-26 22:40:33,410 - mineflayer - INFO - }
+2023-05-26 22:40:34,876 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:40:34,876 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:40:34,876 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:40:34,876 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:40:34,876 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:40:34,876 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:40:34,876 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:40:34,876 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:40:34,876 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:40:34,876 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:40:34,876 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:43:59,261 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:44:00,307 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:44:00,696 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:44:00,696 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:44:00,719 - mineflayer - INFO - {
+2023-05-26 22:44:00,719 - mineflayer - INFO - port: 4090,
+2023-05-26 22:44:00,719 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:44:00,719 - mineflayer - INFO - inventory: {},
+2023-05-26 22:44:00,719 - mineflayer - INFO - equipment: [],
+2023-05-26 22:44:00,719 - mineflayer - INFO - spread: false,
+2023-05-26 22:44:00,719 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:44:00,719 - mineflayer - INFO - position: null
+2023-05-26 22:44:00,720 - mineflayer - INFO - }
+2023-05-26 22:44:02,134 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:44:02,134 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:44:02,134 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:44:02,134 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:44:02,135 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:44:02,135 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:44:02,135 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:44:02,135 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:44:02,135 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:44:02,135 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:44:02,135 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:47:00,633 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:47:01,673 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:47:02,069 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:47:02,070 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:47:02,103 - mineflayer - INFO - {
+2023-05-26 22:47:02,103 - mineflayer - INFO - port: 4090,
+2023-05-26 22:47:02,103 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:47:02,103 - mineflayer - INFO - inventory: {},
+2023-05-26 22:47:02,103 - mineflayer - INFO - equipment: [],
+2023-05-26 22:47:02,103 - mineflayer - INFO - spread: false,
+2023-05-26 22:47:02,103 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:47:02,103 - mineflayer - INFO - position: null
+2023-05-26 22:47:02,103 - mineflayer - INFO - }
+2023-05-26 22:47:03,648 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:47:03,648 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:47:03,648 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:47:03,648 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:47:03,648 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:47:03,648 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:47:03,648 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:47:03,648 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:47:03,648 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:47:03,648 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:47:03,648 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:51:54,165 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:51:55,208 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:51:55,602 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:51:55,602 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:51:55,638 - mineflayer - INFO - {
+2023-05-26 22:51:55,639 - mineflayer - INFO - port: 4090,
+2023-05-26 22:51:55,639 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:51:55,639 - mineflayer - INFO - inventory: {},
+2023-05-26 22:51:55,639 - mineflayer - INFO - equipment: [],
+2023-05-26 22:51:55,639 - mineflayer - INFO - spread: false,
+2023-05-26 22:51:55,639 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:51:55,639 - mineflayer - INFO - position: null
+2023-05-26 22:51:55,639 - mineflayer - INFO - }
+2023-05-26 22:51:57,113 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:51:57,113 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:51:57,113 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:51:57,113 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:51:57,113 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:51:57,113 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:51:57,113 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:51:57,114 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:51:57,114 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:51:57,114 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:51:57,114 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:55:07,135 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:55:08,178 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:55:08,566 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:55:08,566 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:55:08,589 - mineflayer - INFO - {
+2023-05-26 22:55:08,589 - mineflayer - INFO - port: 4090,
+2023-05-26 22:55:08,589 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:55:08,589 - mineflayer - INFO - inventory: {},
+2023-05-26 22:55:08,589 - mineflayer - INFO - equipment: [],
+2023-05-26 22:55:08,589 - mineflayer - INFO - spread: false,
+2023-05-26 22:55:08,589 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:55:08,589 - mineflayer - INFO - position: null
+2023-05-26 22:55:08,589 - mineflayer - INFO - }
+2023-05-26 22:55:10,040 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:55:10,040 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:55:10,040 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:55:10,040 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:55:10,040 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:55:10,041 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:55:10,041 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:55:10,041 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:55:10,041 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:55:10,041 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:55:10,041 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 22:57:14,216 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 22:57:15,261 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 22:57:15,629 - mineflayer - INFO - Server started on port 3000
+2023-05-26 22:57:15,629 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 22:57:15,660 - mineflayer - INFO - {
+2023-05-26 22:57:15,660 - mineflayer - INFO - port: 4090,
+2023-05-26 22:57:15,660 - mineflayer - INFO - reset: 'soft',
+2023-05-26 22:57:15,660 - mineflayer - INFO - inventory: {},
+2023-05-26 22:57:15,660 - mineflayer - INFO - equipment: [],
+2023-05-26 22:57:15,660 - mineflayer - INFO - spread: false,
+2023-05-26 22:57:15,660 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 22:57:15,660 - mineflayer - INFO - position: null
+2023-05-26 22:57:15,660 - mineflayer - INFO - }
+2023-05-26 22:57:17,141 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 22:57:17,142 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 22:57:17,142 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 22:57:17,142 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 22:57:17,142 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 22:57:17,142 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 22:57:17,142 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 22:57:17,142 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 22:57:17,142 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 22:57:17,142 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 22:57:17,142 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:00:23,912 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:00:24,958 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:00:25,370 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:00:25,370 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:00:25,384 - mineflayer - INFO - {
+2023-05-26 23:00:25,384 - mineflayer - INFO - port: 4090,
+2023-05-26 23:00:25,385 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:00:25,385 - mineflayer - INFO - inventory: {},
+2023-05-26 23:00:25,385 - mineflayer - INFO - equipment: [],
+2023-05-26 23:00:25,385 - mineflayer - INFO - spread: false,
+2023-05-26 23:00:25,385 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:00:25,385 - mineflayer - INFO - position: null
+2023-05-26 23:00:25,385 - mineflayer - INFO - }
+2023-05-26 23:00:26,837 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:00:26,837 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:00:26,837 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:00:26,837 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:00:26,837 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:00:26,838 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:00:26,838 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:00:26,838 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:00:26,838 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:00:26,838 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:00:26,838 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:02:47,844 - mineflayer - INFO - Error: No furnace nearby
+2023-05-26 23:02:47,844 - mineflayer - INFO - at smeltItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1023:15)
+2023-05-26 23:02:47,844 - mineflayer - INFO - at craftIronBoots (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1305:11)
+2023-05-26 23:02:47,844 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-26 23:02:47,844 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1331:1)
+2023-05-26 23:02:47,844 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 23:02:47,844 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 23:02:47,844 - mineflayer - INFO - In your program code: throw new Error("No furnace nearby");
+2023-05-26 23:02:47,844 - mineflayer - INFO - No furnace nearby
+2023-05-26 23:02:47,844 - mineflayer - INFO - at line 9:await smeltItem(bot, "raw_iron", "coal", 4 - (ironIngots ? ironIngots.count : 0)); in your code
+2023-05-26 23:06:55,118 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:06:56,167 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:06:56,582 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:06:56,582 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:06:56,610 - mineflayer - INFO - {
+2023-05-26 23:06:56,611 - mineflayer - INFO - port: 4090,
+2023-05-26 23:06:56,611 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:06:56,611 - mineflayer - INFO - inventory: {},
+2023-05-26 23:06:56,611 - mineflayer - INFO - equipment: [],
+2023-05-26 23:06:56,611 - mineflayer - INFO - spread: false,
+2023-05-26 23:06:56,611 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:06:56,611 - mineflayer - INFO - position: null
+2023-05-26 23:06:56,611 - mineflayer - INFO - }
+2023-05-26 23:06:58,121 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:06:58,121 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:06:58,121 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:06:58,121 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:06:58,121 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:06:58,121 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:06:58,122 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:06:58,122 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:06:58,122 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:06:58,122 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:06:58,122 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:10:19,904 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:10:20,949 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:10:21,356 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:10:21,357 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:10:21,377 - mineflayer - INFO - {
+2023-05-26 23:10:21,377 - mineflayer - INFO - port: 4090,
+2023-05-26 23:10:21,377 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:10:21,377 - mineflayer - INFO - inventory: {},
+2023-05-26 23:10:21,377 - mineflayer - INFO - equipment: [],
+2023-05-26 23:10:21,377 - mineflayer - INFO - spread: false,
+2023-05-26 23:10:21,377 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:10:21,377 - mineflayer - INFO - position: null
+2023-05-26 23:10:21,377 - mineflayer - INFO - }
+2023-05-26 23:10:22,770 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:10:22,770 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:10:22,770 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:10:22,770 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:10:22,770 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:10:22,770 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:10:22,770 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:10:22,770 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:10:22,770 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:10:22,770 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:10:22,770 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:14:23,163 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:14:24,214 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:14:24,616 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:14:24,617 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:14:24,629 - mineflayer - INFO - {
+2023-05-26 23:14:24,629 - mineflayer - INFO - port: 4090,
+2023-05-26 23:14:24,629 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:14:24,629 - mineflayer - INFO - inventory: {},
+2023-05-26 23:14:24,629 - mineflayer - INFO - equipment: [],
+2023-05-26 23:14:24,629 - mineflayer - INFO - spread: false,
+2023-05-26 23:14:24,629 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:14:24,629 - mineflayer - INFO - position: null
+2023-05-26 23:14:24,629 - mineflayer - INFO - }
+2023-05-26 23:14:26,318 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:14:26,318 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:14:26,318 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:14:26,318 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:14:26,318 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:14:26,318 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:14:26,319 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:14:26,319 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:14:26,319 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:14:26,319 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:14:26,319 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:17:16,866 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:17:17,907 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:17:18,289 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:17:18,289 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:17:18,300 - mineflayer - INFO - {
+2023-05-26 23:17:18,300 - mineflayer - INFO - port: 4090,
+2023-05-26 23:17:18,300 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:17:18,300 - mineflayer - INFO - inventory: {},
+2023-05-26 23:17:18,300 - mineflayer - INFO - equipment: [],
+2023-05-26 23:17:18,300 - mineflayer - INFO - spread: false,
+2023-05-26 23:17:18,300 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:17:18,300 - mineflayer - INFO - position: null
+2023-05-26 23:17:18,300 - mineflayer - INFO - }
+2023-05-26 23:17:19,669 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:17:19,669 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:17:19,669 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:17:19,669 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:17:19,669 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:17:19,669 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:17:19,669 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:17:19,669 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:17:19,669 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:17:19,669 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:17:19,669 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:23:16,649 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:23:17,783 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:23:18,201 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:23:18,202 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:23:18,224 - mineflayer - INFO - {
+2023-05-26 23:23:18,224 - mineflayer - INFO - port: 4090,
+2023-05-26 23:23:18,224 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:23:18,224 - mineflayer - INFO - inventory: {},
+2023-05-26 23:23:18,224 - mineflayer - INFO - equipment: [],
+2023-05-26 23:23:18,224 - mineflayer - INFO - spread: false,
+2023-05-26 23:23:18,224 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:23:18,224 - mineflayer - INFO - position: null
+2023-05-26 23:23:18,224 - mineflayer - INFO - }
+2023-05-26 23:23:19,749 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:23:19,749 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:23:19,749 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:23:19,749 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:23:19,749 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:23:19,749 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:23:19,749 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:23:19,749 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:23:19,749 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:23:19,749 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:23:19,749 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:26:13,914 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:26:14,955 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:26:15,331 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:26:15,331 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:26:15,355 - mineflayer - INFO - {
+2023-05-26 23:26:15,355 - mineflayer - INFO - port: 4090,
+2023-05-26 23:26:15,355 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:26:15,355 - mineflayer - INFO - inventory: {},
+2023-05-26 23:26:15,355 - mineflayer - INFO - equipment: [],
+2023-05-26 23:26:15,355 - mineflayer - INFO - spread: false,
+2023-05-26 23:26:15,355 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:26:15,355 - mineflayer - INFO - position: null
+2023-05-26 23:26:15,355 - mineflayer - INFO - }
+2023-05-26 23:26:16,825 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:26:16,826 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:26:16,826 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:26:16,826 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:26:16,826 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:26:16,826 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:26:16,826 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:26:16,826 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:26:16,826 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:26:16,826 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:26:16,826 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:29:12,054 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:29:13,113 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:29:13,538 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:29:13,538 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:29:13,551 - mineflayer - INFO - {
+2023-05-26 23:29:13,551 - mineflayer - INFO - port: 4090,
+2023-05-26 23:29:13,552 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:29:13,552 - mineflayer - INFO - inventory: {},
+2023-05-26 23:29:13,552 - mineflayer - INFO - equipment: [],
+2023-05-26 23:29:13,552 - mineflayer - INFO - spread: false,
+2023-05-26 23:29:13,552 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:29:13,552 - mineflayer - INFO - position: null
+2023-05-26 23:29:13,552 - mineflayer - INFO - }
+2023-05-26 23:29:14,984 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:29:14,984 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:29:14,984 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:29:14,984 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:29:14,984 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:29:14,985 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:29:14,985 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:29:14,985 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:29:14,985 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:29:14,985 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:29:14,985 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:32:21,113 - mineflayer - INFO - ReferenceError: mineDeepslateGoldOre is not defined
+2023-05-26 23:32:21,113 - mineflayer - INFO - at mineAndSmeltDeepslateGoldOre (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1471:3)
+2023-05-26 23:32:21,113 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1487:7)
+2023-05-26 23:32:21,113 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1487:43)
+2023-05-26 23:32:21,114 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-26 23:32:21,114 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-26 23:32:21,114 - mineflayer - INFO - Your code:3
+2023-05-26 23:32:21,114 - mineflayer - INFO - await mineDeepslateGoldOre(bot);
+2023-05-26 23:32:21,114 - mineflayer - INFO - mineDeepslateGoldOre is not defined
+2023-05-26 23:32:21,114 - mineflayer - INFO - 
+2023-05-26 23:39:02,738 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:39:03,792 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:39:04,171 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:39:04,171 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:39:04,204 - mineflayer - INFO - {
+2023-05-26 23:39:04,205 - mineflayer - INFO - port: 4090,
+2023-05-26 23:39:04,205 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:39:04,205 - mineflayer - INFO - inventory: {},
+2023-05-26 23:39:04,205 - mineflayer - INFO - equipment: [],
+2023-05-26 23:39:04,205 - mineflayer - INFO - spread: false,
+2023-05-26 23:39:04,205 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:39:04,205 - mineflayer - INFO - position: null
+2023-05-26 23:39:04,205 - mineflayer - INFO - }
+2023-05-26 23:39:05,569 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:39:05,569 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:39:05,569 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:39:05,569 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:39:05,569 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:39:05,569 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:39:05,569 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:39:05,569 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:39:05,569 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:39:05,569 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:39:05,569 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:44:55,210 - mineflayer - INFO - No path to deepslate_iron_ore at (-51, 2, 22)! Skip it!
+2023-05-26 23:47:55,458 - mineflayer - INFO - No path to deepslate_iron_ore at (-38, -6, 12)! Skip it!
+2023-05-26 23:49:38,965 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:49:40,016 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:49:40,392 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:49:40,392 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:49:40,415 - mineflayer - INFO - {
+2023-05-26 23:49:40,415 - mineflayer - INFO - port: 4090,
+2023-05-26 23:49:40,415 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:49:40,415 - mineflayer - INFO - inventory: {},
+2023-05-26 23:49:40,415 - mineflayer - INFO - equipment: [],
+2023-05-26 23:49:40,415 - mineflayer - INFO - spread: false,
+2023-05-26 23:49:40,415 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:49:40,415 - mineflayer - INFO - position: null
+2023-05-26 23:49:40,415 - mineflayer - INFO - }
+2023-05-26 23:49:41,760 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:49:41,761 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:49:41,761 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:49:41,761 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:49:41,761 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:49:41,761 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:49:41,761 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:49:41,761 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:49:41,761 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:49:41,761 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:49:41,761 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:52:10,462 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 23:52:11,513 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 23:52:11,876 - mineflayer - INFO - Server started on port 3000
+2023-05-26 23:52:11,876 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 23:52:11,913 - mineflayer - INFO - {
+2023-05-26 23:52:11,913 - mineflayer - INFO - port: 4090,
+2023-05-26 23:52:11,913 - mineflayer - INFO - reset: 'soft',
+2023-05-26 23:52:11,913 - mineflayer - INFO - inventory: {},
+2023-05-26 23:52:11,913 - mineflayer - INFO - equipment: [],
+2023-05-26 23:52:11,913 - mineflayer - INFO - spread: false,
+2023-05-26 23:52:11,913 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 23:52:11,913 - mineflayer - INFO - position: null
+2023-05-26 23:52:11,913 - mineflayer - INFO - }
+2023-05-26 23:55:20,852 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-26 23:55:20,853 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-26 23:55:20,853 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-26 23:55:20,853 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-26 23:55:20,853 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-26 23:55:20,853 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-26 23:55:20,853 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-26 23:55:20,853 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-26 23:55:20,853 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-26 23:55:20,853 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-26 23:55:20,853 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-26 23:58:41,420 - mineflayer - INFO - Error: Can't find deepslate_iron_ore in slots [3 - 39], (item id: 46)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at transferOne (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\inventory.js:258:32)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at EventEmitter.transfer (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\inventory.js:244:11)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at putSomething (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\furnace.js:104:17)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at Window.putInput (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\furnace.js:108:13)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at smeltItem (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1539:19)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at async smeltFiveDeepslateIronOre (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1574:3)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1577:1)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-26 23:58:41,420 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-26 23:58:41,421 - mineflayer - INFO - E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\inventory.js:258
+2023-05-26 23:58:41,421 - mineflayer - INFO - if (!sourceItem) throw new Error(`Can't find ${mcDataEntry.name} in slots [${sourceStart} - ${sourceEnd}], (item id: ${itemType})`)
+2023-05-26 23:58:41,421 - mineflayer - INFO - Can't find deepslate_iron_ore in slots [3 - 39], (item id: 46)
+2023-05-26 23:58:41,421 - mineflayer - INFO - at await furnace.putInput(item.id, null, 1); in your code
+2023-05-27 00:01:04,278 - mineflayer - INFO - No path to deepslate_iron_ore at (-38, -11, 21)! Skip it!
+2023-05-27 00:03:08,099 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:03:09,143 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:03:09,507 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:03:09,507 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:03:09,541 - mineflayer - INFO - {
+2023-05-27 00:03:09,541 - mineflayer - INFO - port: 4090,
+2023-05-27 00:03:09,541 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:03:09,541 - mineflayer - INFO - inventory: {},
+2023-05-27 00:03:09,541 - mineflayer - INFO - equipment: [],
+2023-05-27 00:03:09,541 - mineflayer - INFO - spread: false,
+2023-05-27 00:03:09,541 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:03:09,541 - mineflayer - INFO - position: null
+2023-05-27 00:03:09,541 - mineflayer - INFO - }
+2023-05-27 00:03:10,851 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-27 00:03:10,851 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-27 00:03:10,851 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-27 00:03:10,851 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-27 00:03:10,851 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-27 00:03:10,851 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-27 00:03:10,851 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-27 00:03:10,851 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-27 00:03:10,851 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-27 00:03:10,851 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-27 00:03:10,851 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-27 00:04:26,317 - mineflayer - INFO - No path to calcite at (-26, -12, 37)! Skip it!
+2023-05-27 00:04:38,718 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 76 expected size was 1864
+2023-05-27 00:04:38,718 - mineflayer - INFO - at new ExtendableError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-27 00:04:38,718 - mineflayer - INFO - at new PartialReadError (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-27 00:04:38,718 - mineflayer - INFO - at Object.shortString (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:70:15)
+2023-05-27 00:04:38,718 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:30:35)
+2023-05-27 00:04:38,718 - mineflayer - INFO - at nbt (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:150:61)
+2023-05-27 00:04:38,718 - mineflayer - INFO - at CompiledProtodef.read (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-27 00:04:38,718 - mineflayer - INFO - at Object.readNbt [as nbt] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\minecraft-protocol\src\datatypes\minecraft.js:47:20)
+2023-05-27 00:04:38,718 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:221:34)
+2023-05-27 00:04:38,718 - mineflayer - INFO - at eval (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:242:75)
+2023-05-27 00:04:38,718 - mineflayer - INFO - at Object.entityMetadata (eval at compile (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-27 00:06:04,110 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:06:05,168 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:06:05,605 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:06:05,605 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:06:05,642 - mineflayer - INFO - {
+2023-05-27 00:06:05,642 - mineflayer - INFO - port: 4090,
+2023-05-27 00:06:05,642 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:06:05,642 - mineflayer - INFO - inventory: {},
+2023-05-27 00:06:05,642 - mineflayer - INFO - equipment: [],
+2023-05-27 00:06:05,642 - mineflayer - INFO - spread: false,
+2023-05-27 00:06:05,642 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:06:05,642 - mineflayer - INFO - position: null
+2023-05-27 00:06:05,642 - mineflayer - INFO - }
+2023-05-27 00:07:21,417 - mineflayer - INFO - Error: No chest at (-25.480013631825187, -15, 38.5), it is chest
+2023-05-27 00:07:21,417 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:07:21,418 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:07:21,418 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1572:9)
+2023-05-27 00:07:21,418 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:07:21,418 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1581:1)
+2023-05-27 00:07:21,418 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:07:21,418 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:07:21,418 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:07:21,418 - mineflayer - INFO - No chest at (-25.480013631825187, -15, 38.5), it is chest
+2023-05-27 00:07:21,418 - mineflayer - INFO - at line 17:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:08:45,236 - mineflayer - INFO - Error: No chest at (-26, -15, 38), it is chest
+2023-05-27 00:08:45,236 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:08:45,236 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:08:45,236 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1587:9)
+2023-05-27 00:08:45,236 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1596:7)
+2023-05-27 00:08:45,236 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1596:34)
+2023-05-27 00:08:45,236 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 00:08:45,236 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 00:08:45,236 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:08:45,236 - mineflayer - INFO - No chest at (-26, -15, 38), it is chest
+2023-05-27 00:08:45,237 - mineflayer - INFO - at line 32:await depositItemIntoChest(bot, chest.position, itemsToDeposit); in your code
+2023-05-27 00:10:12,365 - mineflayer - INFO - Error: No chest at (-26, -15, 38), it is chest
+2023-05-27 00:10:12,365 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:10:12,365 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:10:12,365 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1587:9)
+2023-05-27 00:10:12,365 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1596:7)
+2023-05-27 00:10:12,366 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1596:34)
+2023-05-27 00:10:12,366 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 00:10:12,366 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 00:10:12,366 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:10:12,366 - mineflayer - INFO - No chest at (-26, -15, 38), it is chest
+2023-05-27 00:10:12,366 - mineflayer - INFO - at line 32:await depositItemIntoChest(bot, chest.position, itemsToDeposit); in your code
+2023-05-27 00:11:37,716 - mineflayer - INFO - Error: No chest at (-26, -15, 38), it is chest
+2023-05-27 00:11:37,716 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:11:37,716 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:11:37,716 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1587:9)
+2023-05-27 00:11:37,716 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1596:7)
+2023-05-27 00:11:37,716 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1596:34)
+2023-05-27 00:11:37,716 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 00:11:37,716 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 00:11:37,717 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:11:37,717 - mineflayer - INFO - No chest at (-26, -15, 38), it is chest
+2023-05-27 00:11:37,717 - mineflayer - INFO - at line 32:await depositItemIntoChest(bot, chest.position, itemsToDeposit); in your code
+2023-05-27 00:11:40,949 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:11:41,987 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:11:42,341 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:11:42,341 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:11:42,371 - mineflayer - INFO - {
+2023-05-27 00:11:42,371 - mineflayer - INFO - port: 4090,
+2023-05-27 00:11:42,371 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:11:42,371 - mineflayer - INFO - inventory: {},
+2023-05-27 00:11:42,371 - mineflayer - INFO - equipment: [],
+2023-05-27 00:11:42,371 - mineflayer - INFO - spread: false,
+2023-05-27 00:11:42,371 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:11:42,371 - mineflayer - INFO - position: null
+2023-05-27 00:11:42,371 - mineflayer - INFO - }
+2023-05-27 00:13:11,040 - mineflayer - INFO - Error: No chest at (-25.480013631825187, -15, 38.5), it is chest
+2023-05-27 00:13:11,040 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:13:11,040 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:13:11,041 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1578:9)
+2023-05-27 00:13:11,041 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:13:11,041 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1584:1)
+2023-05-27 00:13:11,041 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:13:11,041 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:13:11,041 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:13:11,041 - mineflayer - INFO - No chest at (-25.480013631825187, -15, 38.5), it is chest
+2023-05-27 00:13:11,041 - mineflayer - INFO - at line 23:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:17:19,717 - mineflayer - INFO - Error: No chest at (-26.489063663509157, -15, 38.5), it is chest
+2023-05-27 00:17:19,717 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:17:19,717 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:17:19,717 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1599:9)
+2023-05-27 00:17:19,717 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:17:19,717 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1605:1)
+2023-05-27 00:17:19,717 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:17:19,717 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:17:19,717 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:17:19,717 - mineflayer - INFO - No chest at (-26.489063663509157, -15, 38.5), it is chest
+2023-05-27 00:17:19,717 - mineflayer - INFO - at line 44:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:19:11,219 - mineflayer - INFO - ReferenceError: findSuitablePosition is not defined
+2023-05-27 00:19:11,219 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1581:25)
+2023-05-27 00:19:11,219 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1604:7)
+2023-05-27 00:19:11,219 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1604:34)
+2023-05-27 00:19:11,219 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 00:19:11,219 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 00:19:11,219 - mineflayer - INFO - Your code:26
+2023-05-27 00:19:11,219 - mineflayer - INFO - const chestPosition = await findSuitablePosition(bot);
+2023-05-27 00:19:11,219 - mineflayer - INFO - findSuitablePosition is not defined
+2023-05-27 00:19:11,219 - mineflayer - INFO - 
+2023-05-27 00:19:14,460 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:19:15,503 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:19:15,872 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:19:15,872 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:19:15,905 - mineflayer - INFO - {
+2023-05-27 00:19:15,906 - mineflayer - INFO - port: 4090,
+2023-05-27 00:19:15,906 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:19:15,906 - mineflayer - INFO - inventory: {},
+2023-05-27 00:19:15,906 - mineflayer - INFO - equipment: [],
+2023-05-27 00:19:15,906 - mineflayer - INFO - spread: false,
+2023-05-27 00:19:15,906 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:19:15,906 - mineflayer - INFO - position: null
+2023-05-27 00:19:15,906 - mineflayer - INFO - }
+2023-05-27 00:20:35,528 - mineflayer - INFO - Error: No chest at (-25.489063663509157, -15, 39.5), it is chest
+2023-05-27 00:20:35,528 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:20:35,528 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:20:35,528 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1570:9)
+2023-05-27 00:20:35,528 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:20:35,528 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1580:1)
+2023-05-27 00:20:35,528 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:20:35,528 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:20:35,528 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:20:35,528 - mineflayer - INFO - No chest at (-25.489063663509157, -15, 39.5), it is chest
+2023-05-27 00:20:35,528 - mineflayer - INFO - at line 15:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 00:22:21,655 - mineflayer - INFO - Error: No chest at (-28, 1, 39), it is deepslate
+2023-05-27 00:22:21,655 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:22:21,655 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:22:21,655 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1588:9)
+2023-05-27 00:22:21,655 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1598:1)
+2023-05-27 00:22:21,655 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:22:21,655 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:22:21,655 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:22:21,655 - mineflayer - INFO - No chest at (-28, 1, 39), it is deepslate
+2023-05-27 00:22:21,655 - mineflayer - INFO - at line 33:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 00:24:44,829 - mineflayer - INFO - Error: No chest at (-28, 1, 39), it is air
+2023-05-27 00:24:44,829 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:24:44,829 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:24:44,829 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1595:9)
+2023-05-27 00:24:44,829 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:24:44,829 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1605:1)
+2023-05-27 00:24:44,829 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:24:44,829 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:24:44,829 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:24:44,829 - mineflayer - INFO - No chest at (-28, 1, 39), it is air
+2023-05-27 00:24:44,829 - mineflayer - INFO - at line 40:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 00:26:41,862 - mineflayer - INFO - chest at (-28, 0, 39) is not safe to break! Skip it!
+2023-05-27 00:26:49,652 - mineflayer - INFO - chest at (-26, -15, 39) is not safe to break! Skip it!
+2023-05-27 00:26:49,710 - mineflayer - INFO - chest at (-27, -15, 38) is not safe to break! Skip it!
+2023-05-27 00:26:51,012 - mineflayer - INFO - chest at (-26, -15, 38) is not safe to break! Skip it!
+2023-05-27 00:26:51,058 - mineflayer - INFO - Error: No chest at (-28, 1, 39), it is air
+2023-05-27 00:26:51,058 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:26:51,058 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:26:51,058 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1595:9)
+2023-05-27 00:26:51,058 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1605:1)
+2023-05-27 00:26:51,059 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:26:51,059 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:26:51,059 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:26:51,059 - mineflayer - INFO - No chest at (-28, 1, 39), it is air
+2023-05-27 00:26:51,059 - mineflayer - INFO - at line 40:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 00:26:54,360 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:26:55,397 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:26:55,760 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:26:55,760 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:26:55,782 - mineflayer - INFO - {
+2023-05-27 00:26:55,782 - mineflayer - INFO - port: 4090,
+2023-05-27 00:26:55,783 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:26:55,783 - mineflayer - INFO - inventory: {},
+2023-05-27 00:26:55,783 - mineflayer - INFO - equipment: [],
+2023-05-27 00:26:55,783 - mineflayer - INFO - spread: false,
+2023-05-27 00:26:55,783 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:26:55,783 - mineflayer - INFO - position: null
+2023-05-27 00:26:55,783 - mineflayer - INFO - }
+2023-05-27 00:28:05,831 - mineflayer - INFO - Error: No chest at (-25.7, -14, 39.5), it is air
+2023-05-27 00:28:05,831 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:28:05,831 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:28:05,831 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1577:9)
+2023-05-27 00:28:05,831 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:28:05,831 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1583:1)
+2023-05-27 00:28:05,831 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:28:05,831 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:28:05,831 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:28:05,831 - mineflayer - INFO - No chest at (-25.7, -14, 39.5), it is air
+2023-05-27 00:28:05,831 - mineflayer - INFO - at line 22:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:29:32,725 - mineflayer - INFO - Error: No chest at (-25.7, -14, 39.5), it is air
+2023-05-27 00:29:32,725 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:29:32,725 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:29:32,725 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1595:9)
+2023-05-27 00:29:32,725 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:29:32,725 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1601:1)
+2023-05-27 00:29:32,725 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:29:32,725 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:29:32,725 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:29:32,725 - mineflayer - INFO - No chest at (-25.7, -14, 39.5), it is air
+2023-05-27 00:29:32,725 - mineflayer - INFO - at line 40:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:31:12,173 - mineflayer - INFO - Error: No chest at (-25.7, -14, 39.5), it is air
+2023-05-27 00:31:12,173 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:31:12,174 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:31:12,174 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1596:9)
+2023-05-27 00:31:12,174 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:31:12,174 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1602:1)
+2023-05-27 00:31:12,174 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:31:12,174 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:31:12,174 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:31:12,174 - mineflayer - INFO - No chest at (-25.7, -14, 39.5), it is air
+2023-05-27 00:31:12,174 - mineflayer - INFO - at line 41:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:33:27,210 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:33:28,249 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:33:28,605 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:33:28,605 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:33:28,636 - mineflayer - INFO - {
+2023-05-27 00:33:28,637 - mineflayer - INFO - port: 4090,
+2023-05-27 00:33:28,637 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:33:28,637 - mineflayer - INFO - inventory: {},
+2023-05-27 00:33:28,637 - mineflayer - INFO - equipment: [],
+2023-05-27 00:33:28,637 - mineflayer - INFO - spread: false,
+2023-05-27 00:33:28,637 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:33:28,637 - mineflayer - INFO - position: null
+2023-05-27 00:33:28,637 - mineflayer - INFO - }
+2023-05-27 00:34:34,282 - mineflayer - INFO - Error: No chest at (-25.7, -14, 39.3), it is air
+2023-05-27 00:34:34,282 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:34:34,282 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:34:34,282 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1569:13)
+2023-05-27 00:34:34,282 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:34:34,282 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1579:1)
+2023-05-27 00:34:34,282 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:34:34,282 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:34:34,282 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:34:34,282 - mineflayer - INFO - No chest at (-25.7, -14, 39.3), it is air
+2023-05-27 00:34:34,282 - mineflayer - INFO - at line 14:await depositItemIntoChest(bot, chestPosition, { in your code
+2023-05-27 00:35:51,236 - mineflayer - INFO - Error: No chest at (-24.7, -14, 39.5), it is large_amethyst_bud
+2023-05-27 00:35:51,237 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:35:51,237 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:35:51,237 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1576:13)
+2023-05-27 00:35:51,237 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:35:51,237 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1586:1)
+2023-05-27 00:35:51,237 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:35:51,237 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:35:51,237 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:35:51,237 - mineflayer - INFO - No chest at (-24.7, -14, 39.5), it is large_amethyst_bud
+2023-05-27 00:35:51,238 - mineflayer - INFO - at line 21:await depositItemIntoChest(bot, chestPosition, { in your code
+2023-05-27 00:37:06,240 - mineflayer - INFO - Error: No chest at (-24.7, -14, 39.5), it is large_amethyst_bud
+2023-05-27 00:37:06,240 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:37:06,240 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:37:06,240 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1576:13)
+2023-05-27 00:37:06,240 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:37:06,240 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1586:1)
+2023-05-27 00:37:06,240 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:37:06,240 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:37:06,240 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:37:06,240 - mineflayer - INFO - No chest at (-24.7, -14, 39.5), it is large_amethyst_bud
+2023-05-27 00:37:06,240 - mineflayer - INFO - at line 21:await depositItemIntoChest(bot, chestPosition, { in your code
+2023-05-27 00:38:16,518 - mineflayer - INFO - Error: No chest at (-24.7, -14, 39.5), it is large_amethyst_bud
+2023-05-27 00:38:16,518 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:38:16,518 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:38:16,519 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1576:13)
+2023-05-27 00:38:16,519 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:38:16,519 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1586:1)
+2023-05-27 00:38:16,519 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:38:16,519 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:38:16,519 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:38:16,519 - mineflayer - INFO - No chest at (-24.7, -14, 39.5), it is large_amethyst_bud
+2023-05-27 00:38:16,519 - mineflayer - INFO - at line 21:await depositItemIntoChest(bot, chestPosition, { in your code
+2023-05-27 00:38:19,772 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:38:20,821 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:38:21,179 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:38:21,179 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:38:21,190 - mineflayer - INFO - {
+2023-05-27 00:38:21,190 - mineflayer - INFO - port: 4090,
+2023-05-27 00:38:21,190 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:38:21,190 - mineflayer - INFO - inventory: {},
+2023-05-27 00:38:21,190 - mineflayer - INFO - equipment: [],
+2023-05-27 00:38:21,190 - mineflayer - INFO - spread: false,
+2023-05-27 00:38:21,190 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:38:21,190 - mineflayer - INFO - position: null
+2023-05-27 00:38:21,190 - mineflayer - INFO - }
+2023-05-27 00:39:34,410 - mineflayer - INFO - Error: No chest at (-25.7, -15, 39.5), it is chest
+2023-05-27 00:39:34,410 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:39:34,411 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:39:34,411 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1570:9)
+2023-05-27 00:39:34,411 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:39:34,411 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1580:1)
+2023-05-27 00:39:34,411 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:39:34,411 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:39:34,411 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:39:34,411 - mineflayer - INFO - No chest at (-25.7, -15, 39.5), it is chest
+2023-05-27 00:39:34,411 - mineflayer - INFO - at line 15:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 00:41:33,789 - mineflayer - INFO - Error: No chest at (-27.7, -15, 39.5), it is chest
+2023-05-27 00:41:33,789 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:41:33,789 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:41:33,789 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1585:9)
+2023-05-27 00:41:33,789 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:41:33,789 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1595:1)
+2023-05-27 00:41:33,789 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:41:33,789 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:41:33,790 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:41:33,790 - mineflayer - INFO - No chest at (-27.7, -15, 39.5), it is chest
+2023-05-27 00:41:33,790 - mineflayer - INFO - at line 30:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 00:43:22,288 - mineflayer - INFO - Error: No chest at (-28, -15, 39), it is chest
+2023-05-27 00:43:22,288 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:43:22,288 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:43:22,288 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1586:9)
+2023-05-27 00:43:22,288 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1596:1)
+2023-05-27 00:43:22,288 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:43:22,288 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:43:22,288 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:43:22,288 - mineflayer - INFO - No chest at (-28, -15, 39), it is chest
+2023-05-27 00:43:22,288 - mineflayer - INFO - at line 31:await depositItemIntoChest(bot, chestBlock.position, uselessItems); in your code
+2023-05-27 00:45:29,820 - mineflayer - INFO - Error: No chest at (-28, -15, 39), it is chest
+2023-05-27 00:45:29,820 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:45:29,820 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:45:29,820 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1593:9)
+2023-05-27 00:45:29,820 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:45:29,820 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1603:1)
+2023-05-27 00:45:29,820 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:45:29,820 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:45:29,820 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:45:29,820 - mineflayer - INFO - No chest at (-28, -15, 39), it is chest
+2023-05-27 00:45:29,820 - mineflayer - INFO - at line 38:await depositItemIntoChest(bot, chestBlock.position, uselessItems); in your code
+2023-05-27 00:45:33,660 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:45:34,712 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:45:35,063 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:45:35,063 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:45:35,075 - mineflayer - INFO - {
+2023-05-27 00:45:35,076 - mineflayer - INFO - port: 4090,
+2023-05-27 00:45:35,076 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:45:35,076 - mineflayer - INFO - inventory: {},
+2023-05-27 00:45:35,076 - mineflayer - INFO - equipment: [],
+2023-05-27 00:45:35,076 - mineflayer - INFO - spread: false,
+2023-05-27 00:45:35,076 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:45:35,076 - mineflayer - INFO - position: null
+2023-05-27 00:45:35,076 - mineflayer - INFO - }
+2023-05-27 00:46:44,319 - mineflayer - INFO - Error: No chest at (-25.7, -15, 39.5), it is chest
+2023-05-27 00:46:44,319 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:46:44,319 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:46:44,319 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1572:9)
+2023-05-27 00:46:44,319 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:46:44,319 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1582:1)
+2023-05-27 00:46:44,319 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:46:44,319 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:46:44,319 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:46:44,320 - mineflayer - INFO - No chest at (-25.7, -15, 39.5), it is chest
+2023-05-27 00:46:44,320 - mineflayer - INFO - at line 17:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:48:14,509 - mineflayer - INFO - Error: No chest at (-26.7, -15, 40.5), it is chest
+2023-05-27 00:48:14,509 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:48:14,509 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:48:14,509 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1590:9)
+2023-05-27 00:48:14,509 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:48:14,509 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1600:1)
+2023-05-27 00:48:14,509 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:48:14,510 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:48:14,510 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:48:14,510 - mineflayer - INFO - No chest at (-26.7, -15, 40.5), it is chest
+2023-05-27 00:48:14,510 - mineflayer - INFO - at line 35:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:49:29,844 - mineflayer - INFO - ReferenceError: findSuitablePosition is not defined
+2023-05-27 00:49:29,844 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1565:25)
+2023-05-27 00:49:29,845 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1595:7)
+2023-05-27 00:49:29,845 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1595:34)
+2023-05-27 00:49:29,845 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 00:49:29,845 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 00:49:29,845 - mineflayer - INFO - Your code:10
+2023-05-27 00:49:29,845 - mineflayer - INFO - const chestPosition = await findSuitablePosition(bot);
+2023-05-27 00:49:29,845 - mineflayer - INFO - findSuitablePosition is not defined
+2023-05-27 00:49:29,845 - mineflayer - INFO - 
+2023-05-27 00:51:28,626 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:51:29,672 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:51:30,034 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:51:30,034 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:51:30,046 - mineflayer - INFO - {
+2023-05-27 00:51:30,046 - mineflayer - INFO - port: 4090,
+2023-05-27 00:51:30,046 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:51:30,046 - mineflayer - INFO - inventory: {},
+2023-05-27 00:51:30,046 - mineflayer - INFO - equipment: [],
+2023-05-27 00:51:30,046 - mineflayer - INFO - spread: false,
+2023-05-27 00:51:30,046 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:51:30,046 - mineflayer - INFO - position: null
+2023-05-27 00:51:30,046 - mineflayer - INFO - }
+2023-05-27 00:52:37,074 - mineflayer - INFO - Error: No chest at (-25.7, -15, 39.5), it is chest
+2023-05-27 00:52:37,074 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:52:37,074 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:52:37,074 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1572:9)
+2023-05-27 00:52:37,074 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:52:37,074 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1578:1)
+2023-05-27 00:52:37,074 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:52:37,074 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:52:37,075 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:52:37,075 - mineflayer - INFO - No chest at (-25.7, -15, 39.5), it is chest
+2023-05-27 00:52:37,075 - mineflayer - INFO - at line 17:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:54:21,913 - mineflayer - INFO - Error: No chest at (-27.7, -15, 39.5), it is chest
+2023-05-27 00:54:21,913 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:54:21,913 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:54:21,913 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1594:9)
+2023-05-27 00:54:21,913 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:54:21,913 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1600:1)
+2023-05-27 00:54:21,913 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:54:21,913 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:54:21,913 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:54:21,913 - mineflayer - INFO - No chest at (-27.7, -15, 39.5), it is chest
+2023-05-27 00:54:21,913 - mineflayer - INFO - at line 39:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:55:51,552 - mineflayer - INFO - Error: No chest at (-26.7, 61.76636799395752, 38.5), it is sand
+2023-05-27 00:55:51,552 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:55:51,552 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:55:51,552 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1594:9)
+2023-05-27 00:55:51,552 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:55:51,552 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1600:1)
+2023-05-27 00:55:51,552 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:55:51,552 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:55:51,553 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:55:51,553 - mineflayer - INFO - No chest at (-26.7, 61.76636799395752, 38.5), it is sand
+2023-05-27 00:55:51,553 - mineflayer - INFO - at line 39:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-27 00:57:34,396 - mineflayer - INFO - TypeError: blockBelow.canPlaceBlockOnTop is not a function
+2023-05-27 00:57:34,396 - mineflayer - INFO - at findSuitablePosition (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1565:117)
+2023-05-27 00:57:34,396 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1578:31)
+2023-05-27 00:57:34,396 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1601:7)
+2023-05-27 00:57:34,396 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1601:34)
+2023-05-27 00:57:34,396 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 00:57:34,396 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 00:57:34,396 - mineflayer - INFO - Your code:10
+2023-05-27 00:57:34,396 - mineflayer - INFO - if (blockBelow && blockBelow.boundingBox === "block" && blockAbove && blockAbove.name === "air" && blockBelow.canPlaceBlockOnTop()) {
+2023-05-27 00:57:34,396 - mineflayer - INFO - blockBelow.canPlaceBlockOnTop is not a function
+2023-05-27 00:57:34,396 - mineflayer - INFO - 
+2023-05-27 00:57:39,058 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 00:57:40,106 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 00:57:40,463 - mineflayer - INFO - Server started on port 3000
+2023-05-27 00:57:40,463 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 00:57:40,491 - mineflayer - INFO - {
+2023-05-27 00:57:40,492 - mineflayer - INFO - port: 4090,
+2023-05-27 00:57:40,492 - mineflayer - INFO - reset: 'soft',
+2023-05-27 00:57:40,492 - mineflayer - INFO - inventory: {},
+2023-05-27 00:57:40,492 - mineflayer - INFO - equipment: [],
+2023-05-27 00:57:40,492 - mineflayer - INFO - spread: false,
+2023-05-27 00:57:40,492 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 00:57:40,492 - mineflayer - INFO - position: null
+2023-05-27 00:57:40,492 - mineflayer - INFO - }
+2023-05-27 00:58:56,365 - mineflayer - INFO - Error: No chest at (-25.7, 62, 39.7), it is ice
+2023-05-27 00:58:56,365 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 00:58:56,365 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 00:58:56,365 - mineflayer - INFO - at placeAndDepositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1570:9)
+2023-05-27 00:58:56,365 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 00:58:56,365 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1580:1)
+2023-05-27 00:58:56,365 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 00:58:56,365 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 00:58:56,365 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 00:58:56,365 - mineflayer - INFO - No chest at (-25.7, 62, 39.7), it is ice
+2023-05-27 00:58:56,365 - mineflayer - INFO - at line 15:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 01:00:39,663 - mineflayer - INFO - Error: No chest at (-11.7, 62, 39.7), it is chest
+2023-05-27 01:00:39,663 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:00:39,663 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 01:00:39,663 - mineflayer - INFO - at placeAndDepositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1577:9)
+2023-05-27 01:00:39,663 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 01:00:39,663 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1587:1)
+2023-05-27 01:00:39,663 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:00:39,663 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:00:39,663 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:00:39,663 - mineflayer - INFO - No chest at (-11.7, 62, 39.7), it is chest
+2023-05-27 01:00:39,663 - mineflayer - INFO - at line 22:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 01:02:08,229 - mineflayer - INFO - Error: No chest at (-12, 62, 39), it is chest
+2023-05-27 01:02:08,229 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:02:08,229 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 01:02:08,229 - mineflayer - INFO - at placeAndDepositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1586:9)
+2023-05-27 01:02:08,229 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1596:1)
+2023-05-27 01:02:08,229 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:02:08,229 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:02:08,229 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:02:08,229 - mineflayer - INFO - No chest at (-12, 62, 39), it is chest
+2023-05-27 01:02:08,229 - mineflayer - INFO - at line 31:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 01:04:17,554 - mineflayer - INFO - chest at (-12, 62, 39) is not safe to break! Skip it!
+2023-05-27 01:04:20,211 - mineflayer - INFO - chest at (-27, 62, 38) is not safe to break! Skip it!
+2023-05-27 01:04:20,264 - mineflayer - INFO - Error: No chest at (-27, 62, 38), it is chest
+2023-05-27 01:04:20,264 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:04:20,264 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1367:11)
+2023-05-27 01:04:20,264 - mineflayer - INFO - at placeAndDepositUselessItems (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1604:9)
+2023-05-27 01:04:20,264 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1614:1)
+2023-05-27 01:04:20,264 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:04:20,264 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:04:20,265 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:04:20,265 - mineflayer - INFO - No chest at (-27, 62, 38), it is chest
+2023-05-27 01:04:20,265 - mineflayer - INFO - at line 49:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-27 01:05:39,462 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:05:40,498 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 01:05:40,871 - mineflayer - INFO - Server started on port 3000
+2023-05-27 01:05:40,871 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 01:05:40,897 - mineflayer - INFO - {
+2023-05-27 01:05:40,897 - mineflayer - INFO - port: 4090,
+2023-05-27 01:05:40,897 - mineflayer - INFO - reset: 'soft',
+2023-05-27 01:05:40,897 - mineflayer - INFO - inventory: {},
+2023-05-27 01:05:40,897 - mineflayer - INFO - equipment: [],
+2023-05-27 01:05:40,897 - mineflayer - INFO - spread: false,
+2023-05-27 01:05:40,897 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 01:05:40,897 - mineflayer - INFO - position: null
+2023-05-27 01:05:40,897 - mineflayer - INFO - }
+2023-05-27 01:07:55,601 - mineflayer - INFO - Error: No chest at (-26, -15, 38), it is chest
+2023-05-27 01:07:55,601 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:07:55,601 - mineflayer - INFO - at async getItemFromChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1336:5)
+2023-05-27 01:07:55,601 - mineflayer - INFO - at async mineIceBlocks (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1577:7)
+2023-05-27 01:07:55,601 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1612:1)
+2023-05-27 01:07:55,601 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:07:55,601 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:07:55,602 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:07:55,602 - mineflayer - INFO - No chest at (-26, -15, 38), it is chest
+2023-05-27 01:07:55,602 - mineflayer - INFO - at line 22:await getItemFromChest(bot, chestPosition, { in your code
+2023-05-27 01:09:47,052 - mineflayer - INFO - Error: No chest at (-26, -15, 38), it is chest
+2023-05-27 01:09:47,052 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:09:47,052 - mineflayer - INFO - at getItemFromChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1336:11)
+2023-05-27 01:09:47,052 - mineflayer - INFO - at mineIceBlocks (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1581:13)
+2023-05-27 01:09:47,052 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1616:1)
+2023-05-27 01:09:47,052 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:09:47,052 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:09:47,052 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:09:47,052 - mineflayer - INFO - No chest at (-26, -15, 38), it is chest
+2023-05-27 01:09:47,052 - mineflayer - INFO - at line 26:await getItemFromChest(bot, chestPosition, { in your code
+2023-05-27 01:11:32,006 - mineflayer - INFO - Error: No chest at (-26, -15, 38), it is chest
+2023-05-27 01:11:32,006 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:11:32,006 - mineflayer - INFO - at getItemFromChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1336:11)
+2023-05-27 01:11:32,006 - mineflayer - INFO - at mineIceBlocks (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1581:13)
+2023-05-27 01:11:32,006 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1616:1)
+2023-05-27 01:11:32,006 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:11:32,006 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:11:32,006 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:11:32,006 - mineflayer - INFO - No chest at (-26, -15, 38), it is chest
+2023-05-27 01:11:32,006 - mineflayer - INFO - at line 26:await getItemFromChest(bot, chestPosition, { in your code
+2023-05-27 01:23:30,602 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:23:31,651 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 01:23:32,006 - mineflayer - INFO - Server started on port 3000
+2023-05-27 01:23:32,006 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 01:23:32,018 - mineflayer - INFO - {
+2023-05-27 01:23:32,018 - mineflayer - INFO - port: 4090,
+2023-05-27 01:23:32,018 - mineflayer - INFO - reset: 'hard',
+2023-05-27 01:23:32,018 - mineflayer - INFO - inventory: { iron_pickaxe: 1 },
+2023-05-27 01:23:32,018 - mineflayer - INFO - equipment: [ null, null, null, null, 'iron_pickaxe', null ],
+2023-05-27 01:23:32,018 - mineflayer - INFO - spread: false,
+2023-05-27 01:23:32,018 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 01:23:32,018 - mineflayer - INFO - position: { x: -25.5, y: -15, z: 38.5 }
+2023-05-27 01:23:32,018 - mineflayer - INFO - }
+2023-05-27 01:24:46,110 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:24:47,149 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 01:24:47,499 - mineflayer - INFO - Server started on port 3000
+2023-05-27 01:24:47,499 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 01:24:47,520 - mineflayer - INFO - {
+2023-05-27 01:24:47,521 - mineflayer - INFO - port: 4090,
+2023-05-27 01:24:47,521 - mineflayer - INFO - reset: 'soft',
+2023-05-27 01:24:47,521 - mineflayer - INFO - inventory: {},
+2023-05-27 01:24:47,521 - mineflayer - INFO - equipment: [],
+2023-05-27 01:24:47,521 - mineflayer - INFO - spread: false,
+2023-05-27 01:24:47,521 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 01:24:47,521 - mineflayer - INFO - position: null
+2023-05-27 01:24:47,521 - mineflayer - INFO - }
+2023-05-27 01:25:33,128 - mineflayer - INFO - Error: No chest at (-26, -15, 38), it is chest
+2023-05-27 01:25:33,128 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:25:33,128 - mineflayer - INFO - at async openChestAt (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1558:3)
+2023-05-27 01:25:33,128 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1564:1)
+2023-05-27 01:25:33,128 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:25:33,128 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:25:33,128 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:25:33,128 - mineflayer - INFO - No chest at (-26, -15, 38), it is chest
+2023-05-27 01:25:33,128 - mineflayer - INFO - at line 3:await moveToChest(bot, chestPosition); in your code
+2023-05-27 01:26:03,070 - mineflayer - INFO - Error: No chest at (-26, 15, 38), it is stone
+2023-05-27 01:26:03,070 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:26:03,070 - mineflayer - INFO - at openChestAt (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1558:9)
+2023-05-27 01:26:03,070 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1564:7)
+2023-05-27 01:26:03,070 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1564:26)
+2023-05-27 01:26:03,070 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 01:26:03,070 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 01:26:03,070 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:26:03,070 - mineflayer - INFO - No chest at (-26, 15, 38), it is stone
+2023-05-27 01:26:03,070 - mineflayer - INFO - at line 3:await moveToChest(bot, chestPosition); in your code
+2023-05-27 01:26:35,115 - mineflayer - INFO - Error: No chest at (-26, -15, 38), it is chest
+2023-05-27 01:26:35,115 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:26:35,116 - mineflayer - INFO - at openChestAt (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1558:9)
+2023-05-27 01:26:35,116 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1564:7)
+2023-05-27 01:26:35,116 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1564:26)
+2023-05-27 01:26:35,116 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 01:26:35,116 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 01:26:35,116 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:26:35,116 - mineflayer - INFO - No chest at (-26, -15, 38), it is chest
+2023-05-27 01:26:35,116 - mineflayer - INFO - at line 3:await moveToChest(bot, chestPosition); in your code
+2023-05-27 01:27:04,432 - mineflayer - INFO - Error: No chest at (-26, 62, 38), it is ice
+2023-05-27 01:27:04,432 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:27:04,432 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 01:27:04,432 - mineflayer - INFO - at async openChestAt (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1558:3)
+2023-05-27 01:27:04,432 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1564:1)
+2023-05-27 01:27:04,432 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:27:04,432 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:27:04,432 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:27:04,432 - mineflayer - INFO - No chest at (-26, 62, 38), it is ice
+2023-05-27 01:27:04,432 - mineflayer - INFO - at line 3:await moveToChest(bot, chestPosition); in your code
+2023-05-27 01:28:10,934 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:28:11,978 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 01:28:12,333 - mineflayer - INFO - Server started on port 3000
+2023-05-27 01:28:12,333 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 01:28:12,365 - mineflayer - INFO - {
+2023-05-27 01:28:12,365 - mineflayer - INFO - port: 4090,
+2023-05-27 01:28:12,365 - mineflayer - INFO - reset: 'soft',
+2023-05-27 01:28:12,365 - mineflayer - INFO - inventory: {},
+2023-05-27 01:28:12,365 - mineflayer - INFO - equipment: [],
+2023-05-27 01:28:12,365 - mineflayer - INFO - spread: false,
+2023-05-27 01:28:12,365 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 01:28:12,365 - mineflayer - INFO - position: null
+2023-05-27 01:28:12,365 - mineflayer - INFO - }
+2023-05-27 01:28:48,112 - mineflayer - INFO - Error: No chest at (-27, 62, 38), it is chest
+2023-05-27 01:28:48,112 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1418:15)
+2023-05-27 01:28:48,112 - mineflayer - INFO - at openChestAtPosition (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1558:9)
+2023-05-27 01:28:48,112 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1564:7)
+2023-05-27 01:28:48,112 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1564:34)
+2023-05-27 01:28:48,112 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 01:28:48,112 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 01:28:48,112 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:28:48,112 - mineflayer - INFO - No chest at (-27, 62, 38), it is chest
+2023-05-27 01:28:48,113 - mineflayer - INFO - at line 3:await moveToChest(bot, chestPosition); in your code
+2023-05-27 01:31:33,887 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:31:34,934 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 01:31:35,289 - mineflayer - INFO - Server started on port 3000
+2023-05-27 01:31:35,289 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 01:31:35,320 - mineflayer - INFO - {
+2023-05-27 01:31:35,320 - mineflayer - INFO - port: 4090,
+2023-05-27 01:31:35,320 - mineflayer - INFO - reset: 'soft',
+2023-05-27 01:31:35,320 - mineflayer - INFO - inventory: {},
+2023-05-27 01:31:35,320 - mineflayer - INFO - equipment: [],
+2023-05-27 01:31:35,320 - mineflayer - INFO - spread: false,
+2023-05-27 01:31:35,320 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 01:31:35,320 - mineflayer - INFO - position: null
+2023-05-27 01:31:35,320 - mineflayer - INFO - }
+2023-05-27 01:32:18,132 - mineflayer - INFO - Error: No chest at (-12, 62, 39), it is chest
+2023-05-27 01:32:18,132 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1440:15)
+2023-05-27 01:32:18,132 - mineflayer - INFO - at openChestAtPosition (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1580:9)
+2023-05-27 01:32:18,132 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1586:7)
+2023-05-27 01:32:18,132 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1586:34)
+2023-05-27 01:32:18,132 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 01:32:18,132 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 01:32:18,132 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:32:18,132 - mineflayer - INFO - No chest at (-12, 62, 39), it is chest
+2023-05-27 01:32:18,132 - mineflayer - INFO - at line 3:await moveToChest(bot, chestPosition); in your code
+2023-05-27 01:34:27,523 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:34:28,558 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 01:34:28,912 - mineflayer - INFO - Server started on port 3000
+2023-05-27 01:34:28,912 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 01:34:28,942 - mineflayer - INFO - {
+2023-05-27 01:34:28,942 - mineflayer - INFO - port: 4090,
+2023-05-27 01:34:28,942 - mineflayer - INFO - reset: 'soft',
+2023-05-27 01:34:28,942 - mineflayer - INFO - inventory: {},
+2023-05-27 01:34:28,942 - mineflayer - INFO - equipment: [],
+2023-05-27 01:34:28,942 - mineflayer - INFO - spread: false,
+2023-05-27 01:34:28,942 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 01:34:28,942 - mineflayer - INFO - position: null
+2023-05-27 01:34:28,942 - mineflayer - INFO - }
+2023-05-27 01:35:09,459 - mineflayer - INFO - Error: No chest at (-26, -15, 39), it is chest
+2023-05-27 01:35:09,459 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1440:15)
+2023-05-27 01:35:09,459 - mineflayer - INFO - at async openChestAtPosition (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1580:3)
+2023-05-27 01:35:09,459 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1586:1)
+2023-05-27 01:35:09,459 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:35:09,459 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:35:09,459 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:35:09,459 - mineflayer - INFO - No chest at (-26, -15, 39), it is chest
+2023-05-27 01:35:09,460 - mineflayer - INFO - at line 3:await moveToChest(bot, chestPosition); in your code
+2023-05-27 01:35:51,662 - mineflayer - INFO - Error: No chest at (-26, 15, 39), it is stone
+2023-05-27 01:35:51,662 - mineflayer - INFO - at moveToChest (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1440:15)
+2023-05-27 01:35:51,662 - mineflayer - INFO - at openChestAtCorrectPosition (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1581:9)
+2023-05-27 01:35:51,662 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1587:7)
+2023-05-27 01:35:51,662 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1587:41)
+2023-05-27 01:35:51,662 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 01:35:51,662 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 01:35:51,662 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-27 01:35:51,662 - mineflayer - INFO - No chest at (-26, 15, 39), it is stone
+2023-05-27 01:35:51,662 - mineflayer - INFO - at line 4:await moveToChest(bot, correctedChestPosition); in your code
+2023-05-27 01:37:02,461 - mineflayer - INFO - TypeError: bot.biomeAt is not a function
+2023-05-27 01:37:02,461 - mineflayer - INFO - at openChestInDripstoneCaves (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1593:21)
+2023-05-27 01:37:02,461 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1605:7)
+2023-05-27 01:37:02,461 - mineflayer - INFO - at eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1605:40)
+2023-05-27 01:37:02,461 - mineflayer - INFO - at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19)
+2023-05-27 01:37:02,461 - mineflayer - INFO - at E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:21
+2023-05-27 01:37:02,461 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-27 01:37:02,461 - mineflayer - INFO - Your code:16
+2023-05-27 01:37:02,461 - mineflayer - INFO - const biome = bot.biomeAt(bot.entity.position);
+2023-05-27 01:37:02,461 - mineflayer - INFO - bot.biomeAt is not a function
+2023-05-27 01:37:02,461 - mineflayer - INFO - 
+2023-05-27 01:38:13,167 - mineflayer - INFO - ReferenceError: digTunnelToChest is not defined
+2023-05-27 01:38:13,167 - mineflayer - INFO - at openChestInDripstoneCaves (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1591:5)
+2023-05-27 01:38:13,168 - mineflayer - INFO - at async eval (eval at evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1601:1)
+2023-05-27 01:38:13,168 - mineflayer - INFO - at async evaluateCode (E:\Dev\Voyager\voyager\env\mineflayer\index.js:256:13)
+2023-05-27 01:38:13,168 - mineflayer - INFO - at async E:\Dev\Voyager\voyager\env\mineflayer\index.js:239:15
+2023-05-27 01:38:13,168 - mineflayer - INFO - Your code:14
+2023-05-27 01:38:13,168 - mineflayer - INFO - await digTunnelToChest(bot, chestPosition);
+2023-05-27 01:38:13,168 - mineflayer - INFO - digTunnelToChest is not defined
+2023-05-27 01:38:13,168 - mineflayer - INFO - 
+2023-05-27 01:39:16,721 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:39:17,753 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 01:39:18,107 - mineflayer - INFO - Server started on port 3000
+2023-05-27 01:39:18,107 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 01:39:18,135 - mineflayer - INFO - {
+2023-05-27 01:39:18,135 - mineflayer - INFO - port: 4090,
+2023-05-27 01:39:18,135 - mineflayer - INFO - reset: 'soft',
+2023-05-27 01:39:18,135 - mineflayer - INFO - inventory: {},
+2023-05-27 01:39:18,135 - mineflayer - INFO - equipment: [],
+2023-05-27 01:39:18,135 - mineflayer - INFO - spread: false,
+2023-05-27 01:39:18,135 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 01:39:18,135 - mineflayer - INFO - position: null
+2023-05-27 01:39:18,135 - mineflayer - INFO - }
+2023-05-27 01:41:59,662 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:42:00,706 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 01:42:01,064 - mineflayer - INFO - Server started on port 3000
+2023-05-27 01:42:01,064 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 01:42:01,091 - mineflayer - INFO - {
+2023-05-27 01:42:01,092 - mineflayer - INFO - port: 4090,
+2023-05-27 01:42:01,092 - mineflayer - INFO - reset: 'soft',
+2023-05-27 01:42:01,092 - mineflayer - INFO - inventory: {},
+2023-05-27 01:42:01,092 - mineflayer - INFO - equipment: [],
+2023-05-27 01:42:01,092 - mineflayer - INFO - spread: false,
+2023-05-27 01:42:01,092 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 01:42:01,092 - mineflayer - INFO - position: null
+2023-05-27 01:42:01,092 - mineflayer - INFO - }
+2023-05-27 01:43:19,968 - mineflayer - INFO - pointed_dripstone at (-17, -21, 44) is not safe to break! Skip it!
+2023-05-27 01:43:31,162 - mineflayer - INFO - No path to pointed_dripstone at (-20, -25, 50)! Skip it!
+2023-05-27 01:43:31,245 - mineflayer - INFO - Block pointed_dripstone at (-20, -24, 50) is not valid! Skip it!
+2023-05-27 01:43:36,262 - mineflayer - INFO - No path to pointed_dripstone at (-18, -25, 51)! Skip it!
+2023-05-27 01:43:41,015 - mineflayer - INFO - No path to pointed_dripstone at (-16, -26, 52)! Skip it!
+2023-05-27 01:43:41,022 - mineflayer - INFO - Block pointed_dripstone at (-14, -2, 21) is not valid! Skip it!
+2023-05-27 01:43:41,077 - mineflayer - INFO - Block pointed_dripstone at (-14, -2, 20) is not valid! Skip it!
+2023-05-27 01:43:41,126 - mineflayer - INFO - Block pointed_dripstone at (-15, -2, 16) is not valid! Skip it!
+2023-05-27 01:43:41,176 - mineflayer - INFO - Block pointed_dripstone at (-7, -3, 24) is not valid! Skip it!
+2023-05-27 01:43:41,227 - mineflayer - INFO - Block pointed_dripstone at (-14, -2, 16) is not valid! Skip it!
+2023-05-27 01:43:41,276 - mineflayer - INFO - Block pointed_dripstone at (-11, -3, 20) is not valid! Skip it!
+2023-05-27 01:43:41,326 - mineflayer - INFO - Block pointed_dripstone at (-5, -3, 24) is not valid! Skip it!
+2023-05-27 01:43:41,376 - mineflayer - INFO - Block pointed_dripstone at (-6, -3, 22) is not valid! Skip it!
+2023-05-27 01:43:41,426 - mineflayer - INFO - Block pointed_dripstone at (-9, -3, 19) is not valid! Skip it!
+2023-05-27 01:43:41,476 - mineflayer - INFO - Block pointed_dripstone at (-11, -3, 18) is not valid! Skip it!
+2023-05-27 01:43:41,526 - mineflayer - INFO - Block pointed_dripstone at (-4, -3, 22) is not valid! Skip it!
+2023-05-27 01:43:41,576 - mineflayer - INFO - Block pointed_dripstone at (-7, -4, 24) is not valid! Skip it!
+2023-05-27 01:43:41,626 - mineflayer - INFO - Block pointed_dripstone at (-14, -3, 16) is not valid! Skip it!
+2023-05-27 01:43:41,676 - mineflayer - INFO - Block pointed_dripstone at (-5, -4, 25) is not valid! Skip it!
+2023-05-27 01:43:41,726 - mineflayer - INFO - Block pointed_dripstone at (-11, -3, 16) is not valid! Skip it!
+2023-05-27 01:43:41,777 - mineflayer - INFO - Block pointed_dripstone at (-11, -4, 20) is not valid! Skip it!
+2023-05-27 01:43:41,827 - mineflayer - INFO - Block pointed_dripstone at (-4, -4, 25) is not valid! Skip it!
+2023-05-27 01:44:47,021 - mineflayer - INFO - Digging aborted! Skip it!
+2023-05-27 01:47:18,376 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:47:19,421 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-27 01:47:19,780 - mineflayer - INFO - Server started on port 3000
+2023-05-27 01:47:19,780 - mineflayer - INFO - Subprocess is ready.
+2023-05-27 01:47:19,806 - mineflayer - INFO - {
+2023-05-27 01:47:19,807 - mineflayer - INFO - port: 4090,
+2023-05-27 01:47:19,807 - mineflayer - INFO - reset: 'soft',
+2023-05-27 01:47:19,807 - mineflayer - INFO - inventory: {},
+2023-05-27 01:47:19,807 - mineflayer - INFO - equipment: [],
+2023-05-27 01:47:19,807 - mineflayer - INFO - spread: false,
+2023-05-27 01:47:19,807 - mineflayer - INFO - waitTicks: 20,
+2023-05-27 01:47:19,807 - mineflayer - INFO - position: null
+2023-05-27 01:47:19,807 - mineflayer - INFO - }
+2023-05-27 01:52:22,806 - mineflayer - INFO - Stopping subprocess.
+2023-05-27 01:52:25,825 - mineflayer - INFO - Stopping subprocess.

@@ -1,0 +1,76 @@
+2023-05-26 20:40:23,987 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:44:26,676 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:44:27,053 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:44:27,053 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:44:27,064 - mineflayer - INFO - {
+2023-05-26 20:44:27,065 - mineflayer - INFO - port: 3346,
+2023-05-26 20:44:27,065 - mineflayer - INFO - reset: 'hard',
+2023-05-26 20:44:27,065 - mineflayer - INFO - inventory: {},
+2023-05-26 20:44:27,065 - mineflayer - INFO - equipment: [],
+2023-05-26 20:44:27,065 - mineflayer - INFO - spread: false,
+2023-05-26 20:44:27,069 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:44:27,069 - mineflayer - INFO - position: null
+2023-05-26 20:44:27,069 - mineflayer - INFO - }
+2023-05-26 20:44:35,207 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:44:36,235 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:44:36,591 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:44:36,591 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:44:36,623 - mineflayer - INFO - {
+2023-05-26 20:44:36,623 - mineflayer - INFO - port: 3346,
+2023-05-26 20:44:36,623 - mineflayer - INFO - reset: 'soft',
+2023-05-26 20:44:36,623 - mineflayer - INFO - inventory: {},
+2023-05-26 20:44:36,623 - mineflayer - INFO - equipment: [],
+2023-05-26 20:44:36,623 - mineflayer - INFO - spread: false,
+2023-05-26 20:44:36,623 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:44:36,623 - mineflayer - INFO - position: null
+2023-05-26 20:44:36,623 - mineflayer - INFO - }
+2023-05-26 20:49:34,064 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:49:35,106 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:49:35,529 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:49:35,530 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:49:35,549 - mineflayer - INFO - {
+2023-05-26 20:49:35,550 - mineflayer - INFO - port: 3346,
+2023-05-26 20:49:35,550 - mineflayer - INFO - reset: 'soft',
+2023-05-26 20:49:35,550 - mineflayer - INFO - inventory: {},
+2023-05-26 20:49:35,550 - mineflayer - INFO - equipment: [],
+2023-05-26 20:49:35,550 - mineflayer - INFO - spread: false,
+2023-05-26 20:49:35,550 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:49:35,550 - mineflayer - INFO - position: null
+2023-05-26 20:49:35,550 - mineflayer - INFO - }
+2023-05-26 20:53:27,662 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:53:28,700 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:53:29,075 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:53:29,075 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:53:29,086 - mineflayer - INFO - {
+2023-05-26 20:53:29,086 - mineflayer - INFO - port: 3346,
+2023-05-26 20:53:29,086 - mineflayer - INFO - reset: 'soft',
+2023-05-26 20:53:29,086 - mineflayer - INFO - inventory: {},
+2023-05-26 20:53:29,087 - mineflayer - INFO - equipment: [],
+2023-05-26 20:53:29,087 - mineflayer - INFO - spread: false,
+2023-05-26 20:53:29,087 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:53:29,087 - mineflayer - INFO - position: null
+2023-05-26 20:53:29,087 - mineflayer - INFO - }
+2023-05-26 20:55:30,117 - mineflayer - INFO - Uncaught Error
+2023-05-26 20:55:30,117 - mineflayer - INFO - TypeError: Cannot read properties of undefined (reading 'x')
+2023-05-26 20:55:30,118 - mineflayer - INFO - at teleportBot (E:\Dev\Voyager\voyager\env\mineflayer\index.js:294:38)
+2023-05-26 20:55:30,118 - mineflayer - INFO - at onStuck (E:\Dev\Voyager\voyager\env\mineflayer\index.js:273:17)
+2023-05-26 20:55:30,118 - mineflayer - INFO - at EventEmitter.onTick (E:\Dev\Voyager\voyager\env\mineflayer\index.js:219:17)
+2023-05-26 20:55:30,118 - mineflayer - INFO - at EventEmitter.emit (node:events:523:35)
+2023-05-26 20:55:30,118 - mineflayer - INFO - at Timeout.doPhysics [as _onTimeout] (E:\Dev\Voyager\voyager\env\mineflayer\node_modules\mineflayer\lib\plugins\physics.js:66:13)
+2023-05-26 20:55:30,118 - mineflayer - INFO - at listOnTimeout (node:internal/timers:573:17)
+2023-05-26 20:55:30,118 - mineflayer - INFO - at process.processTimers (node:internal/timers:514:7)
+2023-05-26 20:55:30,118 - mineflayer - INFO - Cannot read properties of undefined (reading 'x')
+2023-05-26 20:57:16,883 - mineflayer - INFO - Stopping subprocess.
+2023-05-26 20:57:17,911 - mineflayer - INFO - Starting subprocess with commands: ['node', 'E:\\Dev\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-26 20:57:18,282 - mineflayer - INFO - Server started on port 3000
+2023-05-26 20:57:18,282 - mineflayer - INFO - Subprocess is ready.
+2023-05-26 20:57:18,312 - mineflayer - INFO - {
+2023-05-26 20:57:18,312 - mineflayer - INFO - port: 3346,
+2023-05-26 20:57:18,312 - mineflayer - INFO - reset: 'soft',
+2023-05-26 20:57:18,312 - mineflayer - INFO - inventory: {},
+2023-05-26 20:57:18,312 - mineflayer - INFO - equipment: [],
+2023-05-26 20:57:18,312 - mineflayer - INFO - spread: false,
+2023-05-26 20:57:18,312 - mineflayer - INFO - waitTicks: 20,
+2023-05-26 20:57:18,312 - mineflayer - INFO - position: null
+2023-05-26 20:57:18,312 - mineflayer - INFO - }
+2023-05-26 21:01:39,849 - mineflayer - INFO - Stopping subprocess.

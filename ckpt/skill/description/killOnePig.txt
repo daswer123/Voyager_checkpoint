@@ -1,0 +1,3 @@
+async function killOnePig(bot) {
+    // The function is about killing one pig using an iron pickaxe. It equips the iron pickaxe from the inventory and finds the nearest pig within 300 blocks. Once the pig is found, it kills it using the iron pickaxe and logs a message that one pig has been killed.
+}

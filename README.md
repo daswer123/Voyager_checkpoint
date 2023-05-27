@@ -1,4 +1,4 @@
-# Voyager_chekpoit
+# Voyager_checkpoint
 Checkpoint for minecraft [Voyager](https://voyager.minedojo.org/), 160 iterations. 
 
 The cost of the training was ~$40
